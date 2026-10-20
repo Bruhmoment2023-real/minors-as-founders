@@ -1,0 +1,15 @@
+# The legal comparison has no analysis code. These are the packages used by the optional
+# literature-map scripts in bibliometrics/python (versions from the environment that ran them,
+# Python 3.12). The R script bibliometrics/R/bibliometrix_analysis.R needs R 4.5 and the
+# bibliometrix package.
+numpy==2.5.4
+pandas==3.0.6
+requests==2.34.2
+matplotlib==3.11.2
+scipy==1.18.1
+pypdf==6.20.1
+networkx==3.7
+plotly==7.1.0
+pyvis==0.3.2
+pycountry==26.2.16
+rapidfuzz==3.14.6

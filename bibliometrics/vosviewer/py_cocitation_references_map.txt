@@ -1,0 +1,151 @@
+id	label	description	url	cluster	weight<Citations in corpus>	score<Pub. year>
+1	ajzen (1991.0)	The theory of planned behavior	https://doi.org/10.1016/0749-5978(91)90020-t	1	98	1991.0
+2	krueger (2000.0)	Competing models of entrepreneurial intentions	https://doi.org/10.1016/s0883-9026(98)00033-0	1	80	2000.0
+3	peterman (2003.0)	Enterprise Education: Influencing Students’ Perceptions of Entrepreneurship	https://doi.org/10.1046/j.1540-6520.2003.00035.x	3	51	2003.0
+4	liñán (2009.0)	Development and Cross–Cultural Application of a Specific Instrument to Measure Entrepreneurial Intentions	https://doi.org/10.1111/j.1540-6520.2009.00318.x	1	47	2009.0
+5	oosterbeek (2009.0)	The impact of entrepreneurship education on entrepreneurship skills and motivation	https://doi.org/10.1016/j.euroecorev.2009.08.002	3	43	2009.0
+6	wilson (2007.0)	Gender, Entrepreneurial Self–Efficacy, and Entrepreneurial Career Intentions: Implications for Entrepreneurship Education	https://doi.org/10.1111/j.1540-6520.2007.00179.x	3	40	2007.0
+7	krueger (1994.0)	Entrepreneurial Potential and Potential Entrepreneurs	https://doi.org/10.1177/104225879401800307	2	39	1994.0
+8	shane (2000.0)	The Promise of Entrepreneurship as a Field of Research	https://doi.org/10.5465/amr.2000.2791611	2	35	2000.0
+9	licht (2009.0)	The Social Dimensions of Entrepreneurship	https://doi.org/10.1093/oxfordhb/9780199546992.003.0019	1	35	2009.0
+10	brown (2002.0)	Global Entrepreneurship Monitor	https://openalex.org/W2611731537	2	34	2002.0
+11	bae (2014.0)	The Relationship between Entrepreneurship Education and Entrepreneurial Intentions: A Meta–Analytic Review	https://doi.org/10.1111/etap.12095	1	34	2014.0
+12	souitaris (2006.0)	Do entrepreneurship programmes raise entrepreneurial intention of science and engineering students? The effect of learning, inspiration and resources	https://doi.org/10.1016/j.jbusvent.2006.05.002	3	33	2006.0
+13	schoof (2006.0)	Stimulating youth entrepreneurship : barriers and incentives to enterprise start-ups by young people	https://openalex.org/W5978360	2	32	2006.0
+14	krueger (1993.0)	The Impact of Prior Entrepreneurial Exposure on Perceptions of New Venture Feasibility and Desirability	https://doi.org/10.1177/104225879301800101	5	31	1993.0
+15	zhao (2005.0)	The Mediating Role of Self-Efficacy in the Development of Entrepreneurial Intentions.	https://doi.org/10.1037/0021-9010.90.6.1265	1	31	2005.0
+16	fatoki (2011.0)	AN INVESTIGATION INTO THE OBSTACLES TO YOUTH ENTREPRENEURSHIP IN SOUTH AFRICA	https://doi.org/10.5539/ibr.v4n2p161	2	31	2011.0
+17	gartner (1988.0)	“Who Is an Entrepreneur?” Is the Wrong Question	https://doi.org/10.1177/104225878801200401	2	28	1988.0
+18	fayolle (2013.0)	The Impact of Entrepreneurship Education on Entrepreneurial Attitudes and Intention: Hysteresis and Persistence	https://doi.org/10.1111/jsbm.12065	1	28	2013.0
+19	geldhof (2014.0)	Fostering Youth Entrepreneurship: Preliminary Findings From the Young Entrepreneurs Study	https://doi.org/10.1111/jora.12086	4	27	2014.0
+20	kourilsky (1998.0)	Entrepreneurship and female youth: knowledge, attitudes, gender differences, and educational practices	https://doi.org/10.1016/s0883-9026(97)00032-3	3	27	1998.0
+21	schlaegel (2013.0)	Determinants of Entrepreneurial Intent: A Meta–Analytic Test and Integration of Competing Models	https://doi.org/10.1111/etap.12087	1	26	2013.0
+22	schumpeter (2003.0)	The Theory of Economic Development	https://doi.org/10.1007/0-306-48082-4_3	4	24	2003.0
+23	kuratko (2005.0)	The Emergence of Entrepreneurship Education: Development, Trends, and Challenges	https://doi.org/10.1111/j.1540-6520.2005.00099.x	3	24	2005.0
+24	zhao (2009.0)	The Relationship of Personality to Entrepreneurial Intentions and Performance: A Meta-Analytic Review	https://doi.org/10.1177/0149206309335187	4	24	2009.0
+25	robinson (1991.0)	An Attitude Approach to the Prediction of Entrepreneurship	https://doi.org/10.1177/104225879101500405	2	24	1991.0
+26	schmitt‐rodermund (2004.0)	Pathways to successful entrepreneurship: Parenting, personality, early entrepreneurial competence, and interests	https://doi.org/10.1016/j.jvb.2003.10.007	4	23	2004.0
+27	athayde (2009.0)	Measuring Enterprise Potential in Young People	https://doi.org/10.1111/j.1540-6520.2009.00300.x	3	23	2009.0
+28	anon. (2006.0)	The social dimensions of entrepreneurship	https://doi.org/10.1108/sd.2006.05622aaf.007	2	23	2006.0
+29	bonnett (1991.0)	Who wants to be an entrepreneur? A study of adolescents interested in a Young Enterprise scheme	https://doi.org/10.1016/0167-4870(91)90027-q	2	22	1991.0
+30	elert (2014.0)	The impact of entrepreneurship education in high school on long-term entrepreneurial performance	https://doi.org/10.1016/j.jebo.2014.12.020	3	22	2014.0
+31	krueger (1993.0)	Entrepreneurial intentions: Applying the theory of planned behaviour	https://doi.org/10.1080/08985629300000020	1	22	1993.0
+32	liñán (2015.0)	A systematic literature review on entrepreneurial intentions: citation, thematic analyses, and research agenda	https://doi.org/10.1007/s11365-015-0356-5	1	22	2015.0
+33	davidsson (2003.0)	The role of social and human capital among nascent entrepreneurs	https://doi.org/10.1016/s0883-9026(02)00097-6	5	22	2003.0
+34	schoon (2012.0)	Who becomes an entrepreneur? Early life experiences as predictors of entrepreneurship.	https://doi.org/10.1037/a0029168	4	21	2012.0
+35	türker (2009.0)	Which factors affect entrepreneurial intention of university students?	https://doi.org/10.1108/03090590910939049	1	21	2009.0
+36	kautonen (2013.0)	Robustness of the Theory of Planned Behavior in Predicting Entrepreneurial Intentions and Actions	https://doi.org/10.1111/etap.12056	1	21	2013.0
+37	edelman (2016.0)	The impact of family support on young entrepreneurs' start-up activities	https://doi.org/10.1016/j.jbusvent.2016.04.003	5	21	2016.0
+38	fayolle (2006.0)	Assessing the impact of entrepreneurship education programmes: a new methodology	https://doi.org/10.1108/03090590610715022	3	21	2006.0
+39	ajzen (2002.0)	Perceived Behavioral Control, Self‐Efficacy, Locus of Control, and the Theory of Planned Behavior 1	https://doi.org/10.1111/j.1559-1816.2002.tb00236.x	1	20	2002.0
+40	chen (1998.0)	Does entrepreneurial self-efficacy distinguish entrepreneurs from managers?	https://doi.org/10.1016/s0883-9026(97)00029-3	3	20	1998.0
+41	lüthje (2003.0)	the ‘making’ of an entrepreneur: testing a model of entrepreneurial intent among engineering students at MIT	https://doi.org/10.1111/1467-9310.00288	1	20	2003.0
+42	garcía (2013.0)	The Impact of an Entrepreneurship Education Program on Entrepreneurial Competencies and Intention	https://doi.org/10.1111/jsbm.12025	3	19	2013.0
+43	fayolle (2013.0)	The future of research on entrepreneurial intentions	https://doi.org/10.1016/j.jbusres.2013.11.024	1	19	2013.0
+44	gorman (1997.0)	Some Research Perspectives on Entrepreneurship Education, Enterprise Education and Education for Small Business Management: A Ten-Year Literature Review	https://doi.org/10.1177/0266242697153004	2	19	1997.0
+45	kolvereid (1996.0)	Prediction of Employment Status Choice Intentions	https://doi.org/10.1177/104225879602100104	1	19	1996.0
+46	thompson (2009.0)	Individual Entrepreneurial Intent: Construct Clarification and Development of an Internationally Reliable Metric	https://doi.org/10.1111/j.1540-6520.2009.00321.x	1	19	2009.0
+47	liñán (2010.0)	Factors affecting entrepreneurial intention levels: a role for education	https://doi.org/10.1007/s11365-010-0154-z	1	19	2010.0
+48	gelderen (2008.0)	Explaining entrepreneurial intentions by means of the theory of planned behaviour	https://doi.org/10.1108/13620430810901688	1	19	2008.0
+49	obschonka (2010.0)	Entrepreneurial intention as developmental outcome	https://doi.org/10.1016/j.jvb.2010.02.008	4	18	2010.0
+50	falck (2010.0)	Identity and entrepreneurship: do school peers shape entrepreneurial intentions?	https://doi.org/10.1007/s11187-010-9292-5	4	18	2010.0
+51	mueller (2001.0)	Culture and entrepreneurial potential	https://doi.org/10.1016/s0883-9026(99)00039-7	2	18	2001.0
+52	kent (1982.0)	Encyclopedia of entrepreneurship	https://openalex.org/W593861970	2	18	1982.0
+53	douglas (2002.0)	Self-Employment as a Career Choice: Attitudes, Entrepreneurial Intentions, and Utility Maximization	https://doi.org/10.1177/104225870202600305	2	18	2002.0
+54	pittaway (2007.0)	Entrepreneurship Education	https://doi.org/10.1177/0266242607080656	3	18	2007.0
+55	fornell (1981.0)	Evaluating Structural Equation Models with Unobservable Variables and Measurement Error	https://doi.org/10.1177/002224378101800104	1	18	1981.0
+56	carr (2007.0)	Prior family business exposure as intergenerational influence and entrepreneurial intent: A Theory of Planned Behavior approach	https://doi.org/10.1016/j.jbusres.2006.12.016	1	18	2007.0
+57	huber (2014.0)	The effect of early entrepreneurship education: Evidence from a field experiment	https://doi.org/10.1016/j.euroecorev.2014.09.002	3	17	2014.0
+58	rauch (2007.0)	Let's put the person back into entrepreneurship research: A meta-analysis on the relationship between business owners' personality traits, business creation, and success	https://doi.org/10.1080/13594320701595438	4	17	2007.0
+59	schmitt‐rodermund (2004.0)	Pathways to Successful Entrepreneurship: Parenting, Personality, Early Entrepreneurial Competence, and Interests	https://openalex.org/W3122117350	4	17	2004.0
+60	mwasalwiba (2010.0)	Entrepreneurship education: a review of its objectives, teaching methods, and impact indicators	https://doi.org/10.1108/00400911011017663	3	17	2010.0
+61	nabi (2016.0)	The Impact of Entrepreneurship Education in Higher Education: A Systematic Review and Research Agenda	https://doi.org/10.5465/amle.2015.0026	3	17	2016.0
+62	schmitt‐rodermund (2002.0)	Occupational dreams, choices and aspirations: adolescents' entrepreneurial prospects and orientations	https://doi.org/10.1006/jado.2001.0449	4	16	2002.0
+63	obschonka (2016.0)	Adolescent Pathways to Entrepreneurship	https://doi.org/10.1111/cdep.12185	4	16	2016.0
+64	zellweger (2010.0)	Should I stay or should I go? Career choice intentions of students with family business background	https://doi.org/10.1016/j.jbusvent.2010.04.001	5	16	2010.0
+65	boyd (1994.0)	The Influence of Self-Efficacy on the Development of Entrepreneurial Intentions and Actions	https://doi.org/10.1177/104225879401800404	2	16	1994.0
+66	obschonka (2016.0)	Entrepreneurship as a twenty-first century skill: entrepreneurial alertness and intention in the transition to adulthood	https://doi.org/10.1007/s11187-016-9798-6	4	16	2016.0
+67	filion (1994.0)	TEN STEPS TO ENTREPRENEURIAL TEACHING	https://doi.org/10.1080/08276331.1994.10600466	3	16	1994.0
+68	kickul (2008.0)	Are misalignments of perceptions and self‐efficacy causing gender gaps in entrepreneurial intentions among our nation's teens?	https://doi.org/10.1108/14626000810871709	3	16	2008.0
+69	aldrich (2003.0)	The pervasive effects of family on entrepreneurship: toward a family embeddedness perspective	https://doi.org/10.1016/s0883-9026(03)00011-9	5	16	2003.0
+70	kristiansen (2004.0)	ENTREPRENEURIAL INTENTION AMONG INDONESIAN AND NORWEGIAN STUDENTS	https://doi.org/10.1142/s021849580400004x	1	16	2004.0
+71	mcclelland (1961.0)	The achieving society.	https://doi.org/10.1037/14359-000	2	15	1961.0
+72	brandstätter (2010.0)	Personality aspects of entrepreneurship: A look at five meta-analyses	https://doi.org/10.1016/j.paid.2010.07.007	4	15	2010.0
+73	kourilsky (1995.0)	Entrepreneurship Education: Opportunity in Search of Curriculum.	https://openalex.org/W1498341115	2	15	1995.0
+74	bird (1988.0)	Implementing Entrepreneurial Ideas: The Case for Intention	https://doi.org/10.5465/amr.1988.4306970	2	15	1988.0
+75	zhang (2013.0)	The role of entrepreneurship education as a predictor of university students’ entrepreneurial intention	https://doi.org/10.1007/s11365-012-0246-z	1	15	2013.0
+76	dunn (2000.0)	Financial Capital, Human Capital, and the Transition to Self‐Employment: Evidence from Intergenerational Links	https://doi.org/10.1086/209959	5	15	2000.0
+77	kolvereid (2005.0)	New business start-up and subsequent entry into self-employment	https://doi.org/10.1016/j.jbusvent.2005.06.008	1	15	2005.0
+78	lumpkin (1996.0)	Clarifying the Entrepreneurial Orientation Construct and Linking It To Performance	https://doi.org/10.2307/258632	2	15	1996.0
+79	segal (2005.0)	The motivation to become an entrepreneur	https://doi.org/10.1108/13552550510580834	3	15	2005.0
+80	paço (2011.0)	Behaviours and entrepreneurial intention: Empirical findings about secondary students	https://doi.org/10.1007/s10843-010-0071-9	1	15	2011.0
+81	mcclelland (1965.0)	N achievement and entrepreneurship: A longitudinal study.	https://doi.org/10.1037/h0021956	4	14	1965.0
+82	lindquist (2015.0)	Why Do Entrepreneurial Parents Have Entrepreneurial Children?	https://doi.org/10.1086/678493	4	14	2015.0
+83	shane (2003.0)	Entrepreneurial motivation	https://doi.org/10.1016/s1053-4822(03)00017-2	2	14	2003.0
+84	crant (1996.0)	The Proactive Personality Scale as a Predictor of Entrepreneurial Intentions	https://openalex.org/W54812004	5	14	1996.0
+85	chlosta (2010.0)	Parental role models and the decision to become self-employed: The moderating effect of personality	https://doi.org/10.1007/s11187-010-9270-y	5	14	2010.0
+86	podsakoff (2003.0)	Common method biases in behavioral research: A critical review of the literature and recommended remedies.	https://doi.org/10.1037/0021-9010.88.5.879	1	14	2003.0
+87	bandura (1977.0)	Self-efficacy: Toward a unifying theory of behavioral change.	https://doi.org/10.1037/0033-295x.84.2.191	3	14	1977.0
+88	brockhaus (1980.0)	Risk Taking Propensity of Entrepreneurs.	https://doi.org/10.2307/255515	2	14	1980.0
+89	scherer (1989.0)	Role Model Performance Effects on Development of Entrepreneurial Career Preference	https://doi.org/10.1177/104225878901300306	2	14	1989.0
+90	lévesque (2005.0)	The effect of aging on entrepreneurial behavior	https://doi.org/10.1016/j.jbusvent.2005.04.003	2	13	2005.0
+91	awogbenle (2010.0)	Youth unemployment: Entrepreneurship development programme as an intervention mechanism	https://doi.org/10.5897/ajbm.9000686	2	13	2010.0
+92	lent (1994.0)	Toward a Unifying Social Cognitive Theory of Career and Academic Interest, Choice, and Performance	https://doi.org/10.1006/jvbe.1994.1027	4	13	1994.0
+93	mc (2020.0)	Journal of Small Business Management	https://doi.org/10.1111/(issn)1540-627x	2	13	2020.0
+94	martin (2012.0)	Examining the formation of human capital in entrepreneurship: A meta-analysis of entrepreneurship education outcomes	https://doi.org/10.1016/j.jbusvent.2012.03.002	3	13	2012.0
+95	gürol (2006.0)	Entrepreneurial characteristics amongst university students	https://doi.org/10.1108/00400910610645716	2	13	2006.0
+96	anon. (2011.0)	Predicting entrepreneurial behaviour: a test of the theory of planned behaviour	https://doi.org/10.1080/00036846.2011.610750	1	13	2011.0
+97	dyer (1995.0)	Toward a Theory of Entrepreneurial Careers	https://doi.org/10.1177/104225879501900202	2	13	1995.0
+98	vergés (2005.0)	University Students’ Attitudes Towards Entrepreneurship: A Two Countries Comparison	https://doi.org/10.1007/s11365-005-1127-5	1	13	2005.0
+99	brixiová (2014.0)	Skills and Youth Entrepreneurship in Africa: Analysis with Evidence from Swaziland	https://doi.org/10.1016/j.worlddev.2014.09.027	4	13	2014.0
+100	walstad (1998.0)	Entrepreneurial Attitudes and Knowledge of Black Youth	https://doi.org/10.1177/104225879802300201	2	12	1998.0
+101	hu (1999.0)	Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives	https://doi.org/10.1080/10705519909540118	1	12	1999.0
+102	carter (2002.0)	The career reasons of nascent entrepreneurs	https://doi.org/10.1016/s0883-9026(02)00078-2	4	12	2002.0
+103	zhao (2006.0)	The Big Five personality dimensions and entrepreneurial status: A meta-analytical review.	https://doi.org/10.1037/0021-9010.91.2.259	4	12	2006.0
+104	laspita (2012.0)	Intergenerational transmission of entrepreneurial intentions	https://doi.org/10.1016/j.jbusvent.2011.11.006	5	12	2012.0
+105	newman (2018.0)	Entrepreneurial self-efficacy: A systematic review of the literature on its theoretical foundations, measurement, antecedents, and outcomes, and an agenda for future research	https://doi.org/10.1016/j.jvb.2018.05.012	1	12	2018.0
+106	marques (2012.0)	Entrepreneurship education	https://doi.org/10.1108/00400911211274819	3	12	2012.0
+107	graevenitz (2010.0)	The effects of entrepreneurship education	https://doi.org/10.1016/j.jebo.2010.02.015	3	12	2010.0
+108	koh (1996.0)	Testing hypotheses of entrepreneurial characteristics	https://doi.org/10.1108/02683949610113566	2	12	1996.0
+109	sharma (2014.0)	Effect of individual factors on youth entrepreneurship – a study of Uttarakhand state, India	https://doi.org/10.1186/2251-7316-2-3	5	12	2014.0
+110	özarallı (2016.0)	Entrepreneurial intention: antecedents to entrepreneurial behavior in the U.S.A. and Turkey	https://doi.org/10.1186/s40497-016-0047-x	1	12	2016.0
+111	anon. (2021.0)	Journal of Entrepreneurship Education	https://doi.org/10.51697/10988394	5	12	2021.0
+112	frese (2014.0)	The Psychology of Entrepreneurship	https://doi.org/10.1146/annurev-orgpsych-031413-091326	2	12	2014.0
+113	rotter (1966.0)	Generalized expectancies for internal versus external control of reinforcement.	https://doi.org/10.1037/h0092976	2	12	1966.0
+114	dinis (2013.0)	Psychological characteristics and entrepreneurial intentions among secondary students	https://doi.org/10.1108/et-06-2013-0085	1	12	2013.0
+115	anon. (2011.0)	Entrepreneurship Through Social Networks	https://doi.org/10.4337/9781035305759.00014	5	12	2011.0
+116	olugbola (2017.0)	Exploring entrepreneurial readiness of youth and startup success components: Entrepreneurship training as a moderator	https://doi.org/10.1016/j.jik.2016.12.004	3	12	2017.0
+117	moriano (2011.0)	A Cross-Cultural Approach to Understanding Entrepreneurial Intention	https://doi.org/10.1177/0894845310384481	1	12	2011.0
+118	obschonka (2011.0)	Successful Entrepreneurship as Developmental Outcome	https://doi.org/10.1027/1016-9040/a000075	4	11	2011.0
+119	begley (1987.0)	Psychological characteristics associated with performence in entrepreneurial firms and smaller businesses	https://doi.org/10.1016/0883-9026(87)90020-6	2	11	1987.0
+120	chigunta (2005.0)	Being "real" about youth entrepreneurship in Eastern and Southern Africa: implications for adults, institutions and sector structures	https://openalex.org/W1563071985	2	11	2005.0
+121	henry (2005.0)	Entrepreneurship education and training: can entrepreneurship be taught? Part I	https://doi.org/10.1108/00400910510586524	3	11	2005.0
+122	gelderen (2015.0)	From entrepreneurial intentions to actions: Self-control and action-related doubt, fear, and aversion	https://doi.org/10.1016/j.jbusvent.2015.01.003	1	11	2015.0
+123	blanchflower (1998.0)	What Makes an Entrepreneur?	https://doi.org/10.1086/209881	4	11	1998.0
+124	harris (2008.0)	Examining the entrepreneurial attitudes of US business students	https://doi.org/10.1108/00400910810909036	3	11	2008.0
+125	scott (1988.0)	The Long-Term Supply of Entrepreneurs: Students' Career Aspirations in Relation to Entrepreneurship	https://openalex.org/W200481086	2	11	1988.0
+126	gibb (2002.0)	In pursuit of a new ‘enterprise’ and ‘entrepreneurship’ paradigm for learning: creative destruction, new values, new ways of doing things and new combinations of knowledge	https://doi.org/10.1111/1468-2370.00086	3	11	2002.0
+127	autio (2001.0)	Entrepreneurial Intent among Students in Scandinavia and in the USA	https://doi.org/10.1080/14632440110094632	1	11	2001.0
+128	anon. (2011.0)	The Pervasive Effects of Family on Entrepreneurship: Toward a Family Embeddedness Perspective	https://doi.org/10.4337/9781035305759.00029	5	11	2011.0
+129	zapkau (2014.0)	Disentangling the effect of prior entrepreneurial exposure on entrepreneurial intention	https://doi.org/10.1016/j.jbusres.2014.08.007	1	11	2014.0
+130	armitage (2001.0)	Efficacy of the Theory of Planned Behaviour: A meta‐analytic review	https://doi.org/10.1348/014466601164939	1	11	2001.0
+131	shane (2003.0)	A General Theory of Entrepreneurship	https://doi.org/10.4337/9781781007990	2	11	2003.0
+132	iakovleva (2011.0)	Entrepreneurial intentions in developing and developed countries	https://doi.org/10.1108/00400911111147686	1	11	2011.0
+133	si-zong (2008.0)	The impact of higher education on entrepreneurial intentions of university students in China	https://doi.org/10.1108/14626000810917843	3	11	2008.0
+134	tkachev (1999.0)	Self-employment intentions among Russian students	https://doi.org/10.1080/089856299283209	1	11	1999.0
+135	isaacs (2008.0)	Entrepreneurship education and training at the Further Education and Training (FET) level in South Africa	https://doi.org/10.15700/saje.v27n4a135	2	11	2008.0
+136	baron (2003.0)	The cognitive perspective: a valuable tool for answering entrepreneurship's basic “why” questions	https://doi.org/10.1016/s0883-9026(03)00008-9	4	10	2003.0
+137	schmitt‐rodermund (2007.0)	The Long Way to Entrepreneurship: Personality, Parenting, Early Interests, and Competencies as Precursors for Entrepreneurial Activity among the ‘Termites’	https://doi.org/10.4135/9781446213803.n11	4	10	2007.0
+138	blanchflower (1994.0)	A longitudinal analysis of the young self-employed in Australia and the United States	https://doi.org/10.1007/bf01066108	2	10	1994.0
+139	sexton (1986.0)	The Art and science of entrepreneurship	https://openalex.org/W1793713313	5	10	1986.0
+140	brockhaus (1982.0)	The Psychology of the Entrepreneur	https://openalex.org/W288329764	2	10	1982.0
+141	coleman (1988.0)	Social Capital in the Creation of Human Capital	https://doi.org/10.1086/228943	5	10	1988.0
+142	schröder (2006.0)	Crystallizing enterprising interests among adolescents through a career development program: The role of personality and family background	https://doi.org/10.1016/j.jvb.2006.05.004	4	10	2006.0
+143	obschonka (2010.0)	Nascent entrepreneurship and the developing individual: Early entrepreneurial competence in adolescence and venture creation success during the career	https://doi.org/10.1016/j.jvb.2010.12.005	4	10	2010.0
+144	kerr (2018.0)	Personality Traits of Entrepreneurs: A Review of Recent Literature	https://doi.org/10.1561/0300000080	4	10	2018.0
+145	bird (1988.0)	Implementing Entrepreneurial Ideas: The Case for Intention	https://doi.org/10.2307/258091	1	10	1988.0
+146	gupta (2009.0)	The Role of Gender Stereotypes in Perceptions of Entrepreneurs and Intentions to Become an Entrepreneur	https://doi.org/10.1111/j.1540-6520.2009.00296.x	5	10	2009.0
+147	walter (2015.0)	Outcomes of entrepreneurship education: An institutional perspective	https://doi.org/10.1016/j.jbusvent.2015.10.003	3	10	2015.0
+148	ferreira (2012.0)	A model of entrepreneurial intention	https://doi.org/10.1108/14626001211250144	1	10	2012.0
+149	praag (2007.0)	What is the value of entrepreneurship? A review of recent research	https://doi.org/10.1007/s11187-007-9074-x	2	10	2007.0
+150	heinonen (2006.0)	An entrepreneurial‐directed approach to entrepreneurship education: mission impossible?	https://doi.org/10.1108/02621710610637981	3	10	2006.0

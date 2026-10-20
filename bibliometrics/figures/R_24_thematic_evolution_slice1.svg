@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='720.00pt' height='540.00pt' viewBox='0 0 720.00 540.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw3MjAuMDB8MC4wMHw1NDAuMDA='>
+    <rect x='0.00' y='0.00' width='720.00' height='540.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHw1NDAuMDA=)'>
+<rect x='0.00' y='0.00' width='720.00' height='540.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMzAuMjl8NzE0LjUyfDM4Ljg1fDUwOS43MQ=='>
+    <rect x='30.29' y='38.85' width='684.23' height='470.85' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzAuMjl8NzE0LjUyfDM4Ljg1fDUwOS43MQ==)'>
+<rect x='30.29' y='38.85' width='684.23' height='470.85' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<polyline points='30.29,497.22 714.52,497.22 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='30.29,408.04 714.52,408.04 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='30.29,318.87 714.52,318.87 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='30.29,229.69 714.52,229.69 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='30.29,140.51 714.52,140.51 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='30.29,51.34 714.52,51.34 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='48.44,509.71 48.44,38.85 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='178.03,509.71 178.03,38.85 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='307.61,509.71 307.61,38.85 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='437.20,509.71 437.20,38.85 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='566.79,509.71 566.79,38.85 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='696.38,509.71 696.38,38.85 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='30.29,452.63 714.52,452.63 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='30.29,363.46 714.52,363.46 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='30.29,274.28 714.52,274.28 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='30.29,185.10 714.52,185.10 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='30.29,95.93 714.52,95.93 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='113.23,509.71 113.23,38.85 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='242.82,509.71 242.82,38.85 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='372.41,509.71 372.41,38.85 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='502.00,509.71 502.00,38.85 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polyline points='631.58,509.71 631.58,38.85 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' />
+<circle cx='502.00' cy='274.28' r='34.38' style='stroke-width: 0.71; stroke: #984EA3; stroke-opacity: 0.25; fill: #984EA3; fill-opacity: 0.25;' />
+<circle cx='631.58' cy='363.46' r='32.26' style='stroke-width: 0.71; stroke: #377EB8; stroke-opacity: 0.25; fill: #377EB8; fill-opacity: 0.25;' />
+<circle cx='372.41' cy='185.10' r='30.77' style='stroke-width: 0.71; stroke: #E41A1C; stroke-opacity: 0.25; fill: #E41A1C; fill-opacity: 0.25;' />
+<circle cx='242.82' cy='452.63' r='22.90' style='stroke-width: 0.71; stroke: #4DAF4A; stroke-opacity: 0.25; fill: #4DAF4A; fill-opacity: 0.25;' />
+<circle cx='113.23' cy='95.93' r='5.93' style='stroke-width: 0.71; stroke: #FF7F00; stroke-opacity: 0.25; fill: #FF7F00; fill-opacity: 0.25;' />
+<polygon points='397.11,315.45 540.43,315.45 540.34,315.45 540.69,315.44 541.03,315.37 541.36,315.24 541.66,315.07 541.93,314.85 542.16,314.59 542.34,314.30 542.48,313.98 542.56,313.64 542.59,313.29 542.59,313.29 542.59,280.97 542.59,280.97 542.56,280.62 542.48,280.28 542.34,279.97 542.16,279.67 541.93,279.41 541.66,279.19 541.36,279.02 541.03,278.89 540.69,278.82 540.43,278.81 397.11,278.81 397.37,278.82 397.03,278.81 396.68,278.85 396.35,278.95 396.03,279.10 395.75,279.30 395.50,279.54 395.29,279.81 395.13,280.12 395.02,280.45 394.96,280.80 394.95,280.97 394.95,313.29 394.96,313.12 394.96,313.47 395.02,313.81 395.13,314.14 395.29,314.45 395.50,314.73 395.75,314.97 396.03,315.16 396.35,315.31 396.68,315.41 397.03,315.45 ' style='stroke-width: 0.53; fill: #FFFFFF;' />
+<text x='468.77' y='292.19' text-anchor='middle' style='font-size: 13.66px; font-family: "Arial";' textLength='140.44px' lengthAdjust='spacingAndGlyphs'>youth entrepreneurship</text>
+<text x='468.77' y='311.85' text-anchor='middle' style='font-size: 13.66px; font-family: "Arial";' textLength='126.77px' lengthAdjust='spacingAndGlyphs'>youth unemployment</text>
+<polygon points='455.51,381.60 624.64,381.60 624.56,381.60 624.90,381.58 625.24,381.51 625.57,381.39 625.87,381.22 626.14,381.00 626.37,380.74 626.56,380.44 626.69,380.12 626.78,379.79 626.80,379.44 626.80,379.44 626.80,347.11 626.80,347.11 626.78,346.77 626.69,346.43 626.56,346.11 626.37,345.82 626.14,345.56 625.87,345.34 625.57,345.16 625.24,345.04 624.90,344.97 624.64,344.95 455.51,344.95 455.77,344.97 455.43,344.96 455.08,345.00 454.75,345.09 454.43,345.24 454.15,345.44 453.90,345.68 453.69,345.96 453.53,346.27 453.42,346.60 453.36,346.94 453.35,347.11 453.35,379.44 453.36,379.26 453.36,379.61 453.42,379.96 453.53,380.29 453.69,380.59 453.90,380.87 454.15,381.11 454.43,381.31 454.75,381.46 455.08,381.56 455.43,381.60 ' style='stroke-width: 0.53; fill: #FFFFFF;' />
+<text x='540.08' y='358.33' text-anchor='middle' style='font-size: 13.66px; font-family: "Arial";' textLength='166.25px' lengthAdjust='spacingAndGlyphs'>entrepreneurship education</text>
+<text x='540.08' y='378.00' text-anchor='middle' style='font-size: 13.66px; font-family: "Arial";' textLength='147.27px' lengthAdjust='spacingAndGlyphs'>entrepreneurial intention</text>
+<polygon points='334.74,180.55 476.51,180.55 476.42,180.55 476.77,180.53 477.11,180.46 477.44,180.34 477.74,180.17 478.01,179.95 478.24,179.69 478.42,179.39 478.56,179.07 478.64,178.74 478.67,178.39 478.67,178.39 478.67,146.07 478.67,146.07 478.64,145.72 478.56,145.38 478.42,145.06 478.24,144.77 478.01,144.51 477.74,144.29 477.44,144.11 477.11,143.99 476.77,143.92 476.51,143.91 334.74,143.91 335.00,143.92 334.65,143.91 334.31,143.95 333.97,144.05 333.66,144.20 333.37,144.39 333.12,144.63 332.91,144.91 332.75,145.22 332.64,145.55 332.59,145.89 332.58,146.07 332.58,178.39 332.59,178.22 332.59,178.56 332.64,178.91 332.75,179.24 332.91,179.54 333.12,179.82 333.37,180.06 333.66,180.26 333.97,180.41 334.31,180.51 334.65,180.55 ' style='stroke-width: 0.53; fill: #FFFFFF;' />
+<text x='405.62' y='157.28' text-anchor='middle' style='font-size: 13.66px; font-family: "Arial";' textLength='138.89px' lengthAdjust='spacingAndGlyphs'>director disqualification</text>
+<text x='405.62' y='176.95' text-anchor='middle' style='font-size: 13.66px; font-family: "Arial";' textLength='132.84px' lengthAdjust='spacingAndGlyphs'>corporate governance</text>
+<polygon points='171.71,493.83 247.45,493.83 247.36,493.83 247.71,493.81 248.05,493.75 248.38,493.62 248.68,493.45 248.95,493.23 249.18,492.97 249.36,492.67 249.50,492.35 249.58,492.02 249.61,491.67 249.61,491.67 249.61,459.35 249.61,459.35 249.58,459.00 249.50,458.66 249.36,458.34 249.18,458.05 248.95,457.79 248.68,457.57 248.38,457.39 248.05,457.27 247.71,457.20 247.45,457.19 171.71,457.19 171.97,457.20 171.63,457.19 171.28,457.23 170.95,457.33 170.63,457.48 170.35,457.67 170.10,457.91 169.89,458.19 169.73,458.50 169.62,458.83 169.56,459.17 169.55,459.35 169.55,491.67 169.56,491.50 169.56,491.84 169.62,492.19 169.73,492.52 169.89,492.82 170.10,493.10 170.35,493.34 170.63,493.54 170.95,493.69 171.28,493.79 171.63,493.83 ' style='stroke-width: 0.53; fill: #FFFFFF;' />
+<text x='209.58' y='470.56' text-anchor='middle' style='font-size: 13.66px; font-family: "Arial";' textLength='40.97px' lengthAdjust='spacingAndGlyphs'>minors</text>
+<text x='209.58' y='490.23' text-anchor='middle' style='font-size: 13.66px; font-family: "Arial";' textLength='72.86px' lengthAdjust='spacingAndGlyphs'>contract law</text>
+<polygon points='36.11,137.05 142.95,137.05 142.87,137.05 143.21,137.04 143.55,136.97 143.88,136.84 144.18,136.67 144.45,136.45 144.68,136.19 144.87,135.90 145.00,135.58 145.09,135.24 145.11,134.89 145.11,134.89 145.11,102.57 145.11,102.57 145.09,102.22 145.00,101.88 144.87,101.56 144.68,101.27 144.45,101.01 144.18,100.79 143.88,100.62 143.55,100.49 143.21,100.42 142.95,100.41 36.11,100.41 36.37,100.42 36.02,100.41 35.67,100.45 35.34,100.55 35.03,100.70 34.74,100.89 34.49,101.14 34.28,101.41 34.12,101.72 34.01,102.05 33.95,102.39 33.95,102.57 33.95,134.89 33.95,134.72 33.95,135.07 34.01,135.41 34.12,135.74 34.28,136.05 34.49,136.32 34.74,136.56 35.03,136.76 35.34,136.91 35.67,137.01 36.02,137.05 ' style='stroke-width: 0.53; fill: #FFFFFF;' />
+<text x='89.53' y='113.78' text-anchor='middle' style='font-size: 13.66px; font-family: "Arial";' textLength='103.20px' lengthAdjust='spacingAndGlyphs'>firm performance</text>
+<text x='89.53' y='133.45' text-anchor='middle' style='font-size: 13.66px; font-family: "Arial";' textLength='103.97px' lengthAdjust='spacingAndGlyphs'>business survival</text>
+<line x1='30.29' y1='274.28' x2='714.52' y2='274.28' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.70; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='372.41' y1='509.71' x2='372.41' y2='38.85' style='stroke-width: 1.07; stroke: #000000; stroke-opacity: 0.70; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<text x='61.40' y='468.64' style='font-size: 13.66px;fill: #333333; fill-opacity: 0.50; font-family: "Arial";' textLength='74.38px' lengthAdjust='spacingAndGlyphs'>Emerging or</text>
+<text x='61.40' y='488.30' style='font-size: 13.66px;fill: #333333; fill-opacity: 0.50; font-family: "Arial";' textLength='109.03px' lengthAdjust='spacingAndGlyphs'>Declining Themes</text>
+<text x='61.40' y='70.03' style='font-size: 13.66px;fill: #333333; fill-opacity: 0.50; font-family: "Arial";' textLength='87.78px' lengthAdjust='spacingAndGlyphs'>Niche Themes</text>
+<text x='683.42' y='488.30' text-anchor='end' style='font-size: 13.66px;fill: #333333; fill-opacity: 0.50; font-family: "Arial";' textLength='90.06px' lengthAdjust='spacingAndGlyphs'>Basic Themes </text>
+<text x='683.42' y='70.03' text-anchor='end' style='font-size: 13.66px;fill: #333333; fill-opacity: 0.50; font-family: "Arial";' textLength='91.58px' lengthAdjust='spacingAndGlyphs'>Motor Themes </text>
+</g>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHw1NDAuMDA=)'>
+<polyline points='30.29,509.71 30.29,38.85 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='30.29,509.71 714.52,509.71 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<text x='372.41' y='520.32' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='89.34px' lengthAdjust='spacingAndGlyphs'>Relevance degree</text>
+<text x='372.41' y='532.20' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='53.78px' lengthAdjust='spacingAndGlyphs'>(Centrality)</text>
+<text transform='translate(13.36,274.28) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='102.19px' lengthAdjust='spacingAndGlyphs'>Development degree</text>
+<text transform='translate(25.24,274.28) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='44.00px' lengthAdjust='spacingAndGlyphs'>(Density)</text>
+<text x='30.29' y='31.05' style='font-size: 11.00px; font-family: "Arial";' textLength='621.62px' lengthAdjust='spacingAndGlyphs'>Corpus: 926 records (OpenAlex metadata). Paper 06-minors-as-founders. Slice boundaries (last year of each slice): 2015, 2021</text>
+<text x='30.29' y='14.93' style='font-size: 13.20px; font-family: "Arial";' textLength='182.39px' lengthAdjust='spacingAndGlyphs'>Thematic map, time slice 1 of 3</text>
+</g>
+</g>
+</svg>

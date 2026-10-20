@@ -1,0 +1,147 @@
+{
+ "central_papers": 25,
+ "backward_candidates": 729,
+ "forward_candidates": 1072,
+ "snowball_screened": 1801,
+ "snowball_duplicates": 4,
+ "snowball_excluded_reasons": {
+  "offtopic_fails_inclusion_rule": 1196,
+  "no_openalex_record": 332,
+  "offtopic_exclusion_term_in_title": 85,
+  "language_not_english": 70,
+  "type_excluded": 43,
+  "year_out_of_range": 4,
+  "paratext_or_container_record": 1
+ },
+ "snowball_included": 66,
+ "backward_included": 6,
+ "forward_included": 60,
+ "forward_log": [
+  [
+   "W5978360",
+   "",
+   "forward citers collected: 0"
+  ],
+  [
+   "W2093926401",
+   "10.5539/ibr.v4n2p161",
+   "forward citers collected: 56"
+  ],
+  [
+   "W2163873648",
+   "10.1016/j.jvb.2003.10.007",
+   "forward citers collected: 150"
+  ],
+  [
+   "W2118173440",
+   "10.1111/jora.12086",
+   "forward citers collected: 49"
+  ],
+  [
+   "W4413797552",
+   "10.55248/gengpi.6.0825.3052",
+   "forward citers collected: 0"
+  ],
+  [
+   "W4413282576",
+   "10.58257/ijprems43332",
+   "forward citers collected: 0"
+  ],
+  [
+   "W2051533925",
+   "10.1016/0167-4870(91)90027-q",
+   "forward citers collected: 139"
+  ],
+  [
+   "W2467713710",
+   "10.5820/aian.2303.2016.248",
+   "forward citers collected: 19"
+  ],
+  [
+   "W2016483877",
+   "10.1006/jado.2001.0449",
+   "forward citers collected: 49"
+  ],
+  [
+   "W2089486615",
+   "10.1108/14626000810871709",
+   "forward citers collected: 150"
+  ],
+  [
+   "W1980532656",
+   "10.1016/s0883-9026(97)00032-3",
+   "forward citers collected: 150"
+  ],
+  [
+   "W2473118965",
+   "10.1111/cdep.12185",
+   "forward citers collected: 31"
+  ],
+  [
+   "W114240313",
+   "",
+   "forward citers collected: 0"
+  ],
+  [
+   "W2990812020",
+   "10.5820/aian.2603.2019.1",
+   "forward citers collected: 3"
+  ],
+  [
+   "W2903717939",
+   "10.1093/slr/hmy034",
+   "forward citers collected: 3"
+  ],
+  [
+   "W4366364316",
+   "10.1080/14729342.2023.2189359",
+   "forward citers collected: 0"
+  ],
+  [
+   "W2164121728",
+   "10.1016/j.jbusvent.2008.04.009",
+   "forward citers collected: 110"
+  ],
+  [
+   "W2149377664",
+   "10.1016/j.jvb.2010.12.005",
+   "forward citers collected: 71"
+  ],
+  [
+   "W2202056448",
+   "10.11118/actaun201563051711",
+   "forward citers collected: 1"
+  ],
+  [
+   "W3014097018",
+   "10.3390/ijerph17072383",
+   "forward citers collected: 23"
+  ],
+  [
+   "W4411614637",
+   "10.24191/ba/v8i1/114062",
+   "forward citers collected: 0"
+  ],
+  [
+   "W6927309127",
+   "10.26180/14586555",
+   "forward citers collected: 0"
+  ],
+  [
+   "W2992227734",
+   "",
+   "forward citers collected: 0"
+  ],
+  [
+   "W2118337562",
+   "10.1186/2251-7316-2-3",
+   "forward citers collected: 22"
+  ],
+  [
+   "W2395723160",
+   "10.1016/j.jbusvent.2016.04.003",
+   "forward citers collected: 150"
+  ]
+ ],
+ "final_corpus": 994
+}

@@ -1,0 +1,193 @@
+{
+  "paper_id": "06-minors-as-founders",
+  "paper_title": "The legal capacity of under-18s to found and run businesses in India, the UK, the US and Singapore",
+  "year_min": 1950,
+  "year_max": 2026,
+  "n_per_query": {
+    "crossref": 250,
+    "s2": 800,
+    "eric": 300,
+    "arxiv": 50
+  },
+  "snowball_n_central": 25,
+  "snowball_max_forward": 150,
+  "sublits": {
+    "A_minors_contractual_capacity": {
+      "label": "Minors' contractual capacity and the infancy doctrine",
+      "include": [
+        "(infancy doctrine|infancy defen[cs]e|minors?'? ?contracts?|contracts? (with|by|of|made by|involving) (a )?(minors?|infants?|children)|\\b(minors|a minor|minor's|infants?|children'?s?|adolescents?|young persons?|teenagers?)\\b.{0,80}(contractual capacity|capacity to contract|contractual incapacity|legal capacity|disaffirm\\w*|voidable|necessaries|enforceab\\w+ (of )?contracts?)|(contractual capacity|capacity to contract|contractual incapacity|legal capacity|disaffirm\\w*|voidable|necessaries).{0,80}\\b(minors|a minor|minor's|infants?|children|adolescents?|teenagers?)\\b|age of majority|mohori bibee|minors'? agreements?|emancipat\\w+ (of )?minors?|emancipated minors?)"
+      ],
+      "title_any": "(infancy doctrine|\\bminors\\b|\\bminor's\\b|\\binfants?\\b.{0,40}(contract|capacity)|age of majority|capacity to contract|contractual capacity|emancipat)",
+      "crossref": [
+        "infancy doctrine contracts minors",
+        "minors contractual capacity law",
+        "contracts with minors voidable disaffirmance necessaries",
+        "minor's agreement Indian Contract Act Mohori Bibee",
+        "Minors' Contracts Act 1987 capacity",
+        "children online contracts capacity law",
+        "age of majority contract law reform"
+      ],
+      "s2": [
+        "\"infancy doctrine\" | \"infancy law doctrine\" | \"minors' contracts\" | \"contracts with minors\" | \"contractual capacity of minors\" | \"minor's contract\" | \"minors contracts\"",
+        "(minor | minors | infants | children | adolescents) + (\"capacity to contract\" | \"contractual capacity\" | disaffirm | disaffirmance | \"voidable contract\" | \"voidable contracts\" | necessaries)",
+        "(minors | children | teenagers) + contracts + (online | \"e-commerce\" | internet | \"social media\" | gaming | influencers) + (law | legal | capacity)",
+        "\"age of majority\" + (contract | contracts | capacity | law)",
+        "\"Mohori Bibee\" | (\"Indian Contract Act\" + (minor | minors))"
+      ],
+      "title_must": [
+        "(minors?\\b|infan\\w+|child\\w*|adolescen\\w+|teen\\w*|young|youth|age of majority|under[- ]?age|capacity|emancipat\\w+|\\bkids?\\b)",
+        "(contract\\w*|capacity|doctrine|majority|disaffirm\\w*|emancipat\\w+|agreements?|liabilit\\w+|\\blaw\\b|legal|\\bact\\b|necessaries|e-?commerce|online|consumer)"
+      ]
+    },
+    "C_company_partnership_eligibility": {
+      "label": "Company, partnership and LLP law on member/director eligibility",
+      "include": [
+        "((directors?|shareholders?|incorporat\\w+|compan(y|ies) act|partnership|\\bllp\\b|limited liability partnership|corporat\\w+).{0,90}(\\bminors\\b|\\ba minor\\b|\\bminor's\\b|\\binfants?\\b|under[- ]?age|minimum age|age (limit|requirement|restriction)s?|under (16|18|eighteen|sixteen))|(\\bminors\\b|\\ba minor\\b|\\bminor's\\b|\\binfants?\\b|under[- ]?age|minimum age|age (limit|requirement|restriction)s?).{0,90}(directors?|shareholders?|partnership|incorporat\\w+|compan(y|ies) act|\\bllp\\b|limited liability partnership)|director(s|s'|ship)? (eligibility|qualifications?|disqualifications?)|disqualification of (company )?directors|eligibility (of|to be|for) (a )?(company )?(directors?|partners?)|minor (as )?(a )?(partner|shareholder|member|director)s?|benefits of (the )?partnership)"
+      ],
+      "title_any": "(directors?|shareholders?|partnership|\\bllp\\b|limited liability partnership|compan(y|ies) act).{0,80}(minor|infant|age|eligib|qualif|disqualif|capacity)|(minor|infant|age|eligib|qualif|disqualif|capacity).{0,80}(directors?|shareholders?|partnership|\\bllp\\b|limited liability partnership|compan(y|ies) act)",
+      "crossref": [
+        "minor as partner Partnership Act admitted to benefits of partnership",
+        "minimum age company director Companies Act",
+        "minors as shareholders members of a company law",
+        "eligibility qualifications of company directors law",
+        "limited liability partnership partners capacity minors",
+        "disqualification of company directors law"
+      ],
+      "s2": [
+        "(minor | minors | \"minimum age\" | \"under 18\") + (director | directors | shareholder | shareholders) + (company | \"Companies Act\" | corporate) + law",
+        "(minor | minors) + (partnership | \"Partnership Act\" | LLP | \"limited liability partnership\") + (law | legal | capacity)",
+        "\"director eligibility\" | \"directors' qualifications\" | \"qualification of directors\" | \"disqualification of directors\" | \"minimum age for directors\" | \"directors disqualification\""
+      ],
+      "title_must": [
+        "(director\\w*|shareholder\\w*|partner\\w*|compan\\w+|corporat\\w+|\\bllp\\b|incorporat\\w+)"
+      ]
+    },
+    "B_youth_entrepreneurship": {
+      "label": "Youth and adolescent entrepreneurship",
+      "include": [
+        "(\\b(youth|young (people|persons?|entrepreneurs?|founders?|adults?)|adolescen\\w+|teen\\w*|minors|children|child|kid\\w*|high school|secondary school|under[- ]?18)\\b.{0,60}(entrepreneur\\w*|start-?ups?|business (owners?|founders?|ownership|creation)|self[- ]employ\\w*)|(entrepreneur\\w*|start-?ups?|self[- ]employ\\w*).{0,60}\\b(youth|young (people|persons?|adults?)|adolescen\\w+|teen\\w*|minors|children|high school|secondary school)\\b|kidpreneur\\w*|teenpreneur\\w*)"
+      ],
+      "title_any": "(youth|young|adolescen|teen|minors|child|kid|high school|secondary school).{0,60}(entrepreneur|start-?up|business|self[- ]employ)|(entrepreneur|start-?up|self[- ]employ).{0,60}(youth|young|adolescen|teen|minors|child|high school|secondary school)",
+      "crossref": [
+        "youth entrepreneurship",
+        "adolescent entrepreneurship teenage entrepreneurs",
+        "young entrepreneurs legal barriers age business registration",
+        "entrepreneurship education secondary school students entrepreneurial intention",
+        "minors as entrepreneurs legal capacity business"
+      ],
+      "s2": [
+        "\"youth entrepreneurship\" | \"young entrepreneurs\" | \"adolescent entrepreneurship\" | \"teen entrepreneurs\" | \"teenage entrepreneurs\" | \"child entrepreneurs\" | kidpreneurs | \"minor entrepreneurs\"",
+        "(adolescents | adolescence | teenagers | \"high school students\" | \"secondary school students\") + (entrepreneurship | entrepreneurial | \"entrepreneurial intention\" | \"business ownership\")",
+        "(youth | \"young people\") + (\"self-employment\" | entrepreneurship) + (barriers | legal | regulation | \"access to finance\" | age)"
+      ],
+      "eric": [
+        "\"youth entrepreneurship\" OR (entrepreneurship AND adolescents)",
+        "entrepreneurship AND (\"high school students\" OR \"secondary school students\")"
+      ],
+      "title_must": [
+        "(entrepreneur\\w*|start-?ups?|business\\w*|self[- ]employ\\w*|enterpris\\w+|venture\\w*|founder\\w*)",
+        "(youth|young|adolescen\\w+|teen\\w*|minors?\\b|child\\w*|kid\\w*|school\\w*|juvenile|students?)"
+      ]
+    }
+  },
+  "exclude": "(\\bmedical|consent to (medical )?treatment|\\bhealth|abortion|contracept|vaccin|sexual|marriage|criminal|juvenile justice|asylum|migra|disabilit|dementia|mental|psychiatr|elder|voting|suffrage|malaria|infect|\\bhiv\\b|infant (mortality|feeding|formula|nutrition|industr)|neonat|breast|pediatric|paediatric|preterm|\\bbirth|alcohol|tobacco|smoking|drinking|firearm|driving|soldier|labou?r market|child labou?r|trafficking|custody|adoption|minority shareholder|mining|\\bmineral|compensation|board (functions|committee)|clerkship|minor shareholders?|juvenile delinquen|child support|penal|land acquisition|best interests)",
+  "core_terms": {
+    "\\bminors?\\b|infan(t|cy)|under[- ]?18|adolescen|teen|child": 2,
+    "contract\\w*|capacity|disaffirm|voidable": 2,
+    "entrepreneur\\w*|founder|start-?up|business": 2,
+    "director|shareholder|company|partnership|\\bllp\\b|incorporat": 2,
+    "india|united kingdom|england|english law|singapore|united states|american|comparative": 1.5,
+    "law|legal|doctrine|statut": 1
+  },
+  "seed_titles": [
+    "Infancy Doctrine Inquiries",
+    "CyberInfants",
+    "Youth Entrepreneurship: Meeting the Key Policy Challenges",
+    "Pathways to successful entrepreneurship: Parenting, personality, early entrepreneurial competence, and interests",
+    "Entrepreneurship as a twenty-first century skill: entrepreneurial alertness and intention in the transition to adulthood",
+    "Fostering Youth Entrepreneurship: Preliminary Findings From the Young Entrepreneurs Study",
+    "Minors' Contracts: A Major Problem with the Indian Contract Act, 1872",
+    "The Minors' Contracts Act 1987",
+    "Contracts for the Sale of Goods to Minors",
+    "Entrepreneurship among adolescents"
+  ],
+  "seed_dois": [],
+  "seed_arxiv": [],
+  "manual_exclude": {
+    "W3110659575": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W2885251375": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W3000382916": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W4281611091": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W4388007046": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W2019681622": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W4393948507": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W4416950037": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W3006001001": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W2079210279": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W2587034635": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W7126271245": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W2802378127": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W2461433727": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W2417068189": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W1694375611": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W1774424075": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W3033613541": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W68319930": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W1513088838": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W4413881372": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W7214223031": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W4396715641": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W2053295342": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W4323528984": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W4388635589": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W3156695080": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W7161811750": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W4200603120": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W2275097700": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W3125570362": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W2528265669": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W1023660161": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W2416489035": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W47352237": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W3123580553": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W4320011451": "Off-topic: not about minors' legal capacity to contract or found/run businesses (medicine, forensic age estimation, criminology, family or human-rights law); hand-screened by title, 17 Oct 2026",
+    "W4410894565": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W3035814348": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W3205647123": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2771860651": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W7221123227": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2614942565": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2999226282": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W1602450838": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2098168844": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2278313341": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2997427094": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W4400783603": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W7203821353": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W4416394379": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2400340287": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2137812295": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2067765616": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W114240313": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W230443427": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W1592465823": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2365692658": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2371226350": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2349332082": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2350144915": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2360462593": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2375346179": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2384172589": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W3036990767": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W3129177655": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W2357964937": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026",
+    "W162887973": "Off-topic: not company/partnership/LLP member or director eligibility (health or school 'directors', finance or governance studies, Chinese 'minor' = minority shareholder papers); hand-screened by title, 17 Oct 2026"
+  },
+  "max_refs_resolve": 5000,
+  "evidence_relation": {
+    "A_minors_contractual_capacity": "Contractual capacity of minors and the infancy doctrine: the legal basis for what an under-18 founder can bind a business to.",
+    "B_youth_entrepreneurship": "Youth and adolescent entrepreneurship research: who young founders are and what is known about their ventures.",
+    "C_company_partnership_eligibility": "Company, partnership and LLP rules on who may be a member, partner or director: the eligibility layer of the comparison.",
+    "seed": "Named in the paper's own prior-work notes; core comparison for the design."
+  }
+}

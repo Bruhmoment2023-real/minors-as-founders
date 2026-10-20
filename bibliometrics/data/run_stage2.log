@@ -1,0 +1,23 @@
+=== 06-minors-as-founders :: snowball
+snowball: central=25 backward candidates=729 forward candidates=1090
+  snowball 400/1801 (166s)
+  snowball 800/1801 (278s)
+  snowball 1200/1801 (349s)
+  snowball 1600/1801 (423s)
+snowball: {'central_papers': 25, 'backward_candidates': 729, 'forward_candidates': 1072, 'snowball_screened': 1801, 'snowball_duplicates': 4, 'snowball_excluded_reasons': {'offtopic_fails_inclusion_rule': 1196, 'no_openalex_record': 332, 'offtopic_exclusion_term_in_title': 85, 'language_not_english': 70, 'type_excluded': 43, 'year_out_of_range': 4, 'paratext_or_container_record': 1}, 'snowball_included': 66, 'backward_included': 6, 'forward_included': 60, 'final_corpus': 994}
+=== snowball done in 495s
+=== 06-minors-as-founders :: refs
+refs: distinct cited works=18230 to resolve=5000 (cap 5000)
+  refs 2000/5000 (233s)
+  refs 4000/5000 (536s)
+refs: resolved 4725/5000
+=== refs done in 661s
+=== 06-minors-as-founders :: master
+  crossref-check 500/755 (101s)
+master: corpus=994 edges=1060 refs_labelled=5715 manual_removed=0
+sublit
+B_youth_entrepreneurship             731
+C_company_partnership_eligibility    147
+A_minors_contractual_capacity        108
+seed                                   8
+=== master done in 357s

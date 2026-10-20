@@ -1,0 +1,489 @@
+id	label	description	url	cluster	weight<Local citations>	weight<Global citations>	score<Pub. year>
+1	damon (2015)	Youth Entrepreneurship	https://doi.org/10.1002/9781118900772.etrds0391	3	1	4	2015
+2	reker (2014)	Unqualified Directors in Insolvency: A Comparative Study on the Desirability of Civil Law Directors' Disqualification in the Netherlands	https://doi.org/10.1002/iir.1224	2	0	1	2014
+3	lafuente (2016)	The Territorial Economic Impact of Entrepreneurial Youthfulness	https://doi.org/10.1002/jsc.2055	3	0	17	2016
+4	schmitt‐rodermund (2002)	Occupational dreams, choices and aspirations: adolescents' entrepreneurial prospects and orientations	https://doi.org/10.1006/jado.2001.0449	3	16	79	2002
+5	lamrani (2016)	Serious Game to Enhance and Promote Youth Entrepreneurship	https://doi.org/10.1007/978-3-319-46568-5_8	3	1	10	2016
+6	keasey (1994)	The 1986 U.K. Insolvency and Company Directors' Disqualification Acts: An evaluation of their impacts upon small firm financing decisions	https://doi.org/10.1007/bf01108393	2	1	7	1994
+7	geldhof (2013)	Understanding Entrepreneurial Intent in Late Adolescence: The Role of Intentional Self-Regulation and Innovation	https://doi.org/10.1007/s10964-013-9930-8	3	4	102	2013
+8	gangwar (2022)	Minors’ Contracts in the Digital Age	https://doi.org/10.1007/s10991-022-09298-3	1	1	5	2022
+9	star (2022)	Major Differences in Minors’ Contracts: A Comparative Analysis into the Validity of Contracts with Minors in the Sport and Entertainment Industry	https://doi.org/10.1007/s10991-022-09308-4	1	0	0	2022
+10	wiger (2015)	Context matters: A model of the factors associated with the effectiveness of youth entrepreneurship training	https://doi.org/10.1007/s11125-015-9366-x	3	2	25	2015
+11	bezerra (2017)	Universities, local partnerships and the promotion of youth entrepreneurship	https://doi.org/10.1007/s11159-017-9665-y	3	2	30	2017
+12	obschonka (2016)	Entrepreneurship as a twenty-first century skill: entrepreneurial alertness and intention in the transition to adulthood	https://doi.org/10.1007/s11187-016-9798-6	4	16	253	2016
+13	chen (2023)	Adolescent entrepreneurial learning ecosystem and a tech entrepreneurial career—inspiration from theblack swan stories	https://doi.org/10.1007/s11187-023-00786-y	3	1	5	2023
+14	douglas (2024)	A social milieu perspective of parental influence on adolescents’ entrepreneurial and employment intentions	https://doi.org/10.1007/s11187-024-00982-4	3	0	6	2024
+15	мартынова (2016)	“Service” Municipal Administration as Part of the Development of Youth Entrepreneurship in Russia	https://doi.org/10.1007/s11205-016-1406-2	3	1	20	2016
+16	brüne (2019)	The effect of entrepreneurship education in schools on entrepreneurial outcomes: a systematic review	https://doi.org/10.1007/s11301-019-00168-3	3	7	104	2019
+17	tam (2021)	Developing Social Entrepreneurship as an Intervention to Enhance Disadvantaged Young People’s Sense of Self-Worth and Career Competence in Hong Kong	https://doi.org/10.1007/s11482-021-09917-7	3	1	20	2021
+18	xu (2016)	Factors influencing entrepreneurial intentions of Chinese secondary school students: an empirical study	https://doi.org/10.1007/s12564-016-9439-4	3	7	36	2016
+19	campanella (2013)	The Role of Sociocultural Background on the Characteristics and the Financing of Youth Entrepreneurship. An Exploratory Study of University Graduates in Italy	https://doi.org/10.1007/s13132-013-0157-4	3	4	46	2013
+20	ahmed (2021)	Constraints of youth entrepreneurs in Ethiopia	https://doi.org/10.1007/s40497-021-00292-z	3	6	52	2021
+21	barry (2025)	Effects of individual and household characteristics on informal entrepreneurship among youths in Senegal	https://doi.org/10.1007/s40497-024-00420-5	3	0	2	2025
+22	patuelli (2020)	Entrepreneurial intention among high-school students: the importance of parents, peers and neighbors	https://doi.org/10.1007/s40821-020-00160-y	3	3	31	2020
+23	arend (2019)	Entrepreneurial entrepreneurship youth education: initiating grounded theory	https://doi.org/10.1007/s41959-019-00014-3	3	1	9	2019
+24	lin (2023)	Planning and evaluating youth entrepreneurship education programs in schools: a systematic literature review	https://doi.org/10.1007/s41959-023-00092-4	3	1	11	2023
+25	ike (2025)	Enhancing economic sustainability through entrepreneurial alertness as a mediator between innovativeness, proactive personality, and entrepreneurial intention among undergraduate students	https://doi.org/10.1007/s44202-025-00388-7	3	0	8	2025
+26	fute (2024)	Combating youth’s unemployment rate by integrating entrepreneurship in middle school education	https://doi.org/10.1007/s44217-024-00124-8	3	0	12	2024
+27	bonnett (1991)	Who wants to be an entrepreneur? A study of adolescents interested in a Young Enterprise scheme	https://doi.org/10.1016/0167-4870(91)90027-q	3	22	247	1991
+28	geldhof (2014)	Entrepreneurship in young adults: Initial findings from the young entrepreneurs study	https://doi.org/10.1016/j.appdev.2014.07.003	3	3	32	2014
+29	davila (2004)	The scholastic progress of students with entrepreneurial parents	https://doi.org/10.1016/j.econedurev.2003.10.004	3	2	11	2004
+30	sobel (2008)	Does school choice increase the rate of youth entrepreneurship?	https://doi.org/10.1016/j.econedurev.2007.01.005	3	8	63	2008
+31	kang (2021)	Is entrepreneurship a remedy for Chinese university graduates’ unemployment under the massification of higher education? A case study of young entrepreneurs in Shenzhen	https://doi.org/10.1016/j.ijedudev.2021.102406	3	1	46	2021
+32	raappana (2023)	Three explanations for the development of adolescents’ entrepreneurial potential	https://doi.org/10.1016/j.ijer.2023.102272	3	2	7	2023
+33	heilbrunn (2014)	Is entrepreneurship education reproducing social inequalities among adolescents? Some empirical evidence from Israel	https://doi.org/10.1016/j.ijme.2014.05.008	3	1	24	2014
+34	ho (2024)	Development and validation of the adolescent's entrepreneurial attributes inventory: A mixed-methods approach	https://doi.org/10.1016/j.ijme.2024.101033	3	0	7	2024
+35	porfírio (2022)	Promoting entrepreneurial intentions from adolescence: The influence of entrepreneurial culture and education	https://doi.org/10.1016/j.jbusres.2022.113521	3	4	90	2022
+36	salavou (2023)	Entrepreneurial intention in adolescents: The impact of psychological capital	https://doi.org/10.1016/j.jbusres.2023.114017	3	3	24	2023
+37	zhang (2008)	Rule breaking in adolescence and entrepreneurial status: An empirical investigation	https://doi.org/10.1016/j.jbusvent.2008.04.009	3	8	153	2008
+38	edelman (2016)	The impact of family support on young entrepreneurs' start-up activities	https://doi.org/10.1016/j.jbusvent.2016.04.003	3	21	405	2016
+39	viinikainen (2017)	Born entrepreneurs? Adolescents’ personality characteristics and entrepreneurship in adulthood	https://doi.org/10.1016/j.jbvi.2017.05.001	3	2	57	2017
+40	rosado-cubero (2024)	Seeding young entrepreneurs: The role of business incubators	https://doi.org/10.1016/j.jik.2024.100579	3	0	23	2024
+41	schmitt‐rodermund (2004)	Pathways to successful entrepreneurship: Parenting, personality, early entrepreneurial competence, and interests	https://doi.org/10.1016/j.jvb.2003.10.007	4	23	367	2004
+42	schröder (2006)	Crystallizing enterprising interests among adolescents through a career development program: The role of personality and family background	https://doi.org/10.1016/j.jvb.2006.05.004	3	10	72	2006
+43	obschonka (2010)	Nascent entrepreneurship and the developing individual: Early entrepreneurial competence in adolescence and venture creation success during the career	https://doi.org/10.1016/j.jvb.2010.12.005	3	10	112	2010
+44	ahn (2009)	Attitudes toward risk and self-employment of young workers	https://doi.org/10.1016/j.labeco.2009.06.005	3	2	142	2009
+45	shaw (2021)	Coming of age: Watching young entrepreneurs become successful	https://doi.org/10.1016/j.labeco.2021.102033	3	1	24	2021
+46	diepolder (2025)	Effects of competence-based sustainable entrepreneurship education on secondary school students’ sustainable entrepreneurial intention	https://doi.org/10.1016/j.stae.2025.100103	3	0	32	2025
+47	amouri (2021)	Technological propensity, financial constraints, and entrepreneurial limits in young entrepreneurs’ social business enterprises: The tunisian experience	https://doi.org/10.1016/j.techfore.2021.121126	3	0	41	2021
+48	rosas (2021)	Starting points matter: Cash plus training effects on youth entrepreneurship, skills, and resilience during an epidemic	https://doi.org/10.1016/j.worlddev.2021.105698	3	2	25	2021
+49	nasser (2003)	Flight of the young flamingoes: alternative futures for young entrepreneurs in South Africa	https://doi.org/10.1016/s0016-3287(02)00088-5	3	1	16	2003
+50	aldrich (2007)	A Life Course Perspective on Occupational Inheritance: Self-employed Parents and their Children	https://doi.org/10.1016/s0733-558x(06)25002-x	3	2	92	2007
+51	kourilsky (1998)	Entrepreneurship and female youth: knowledge, attitudes, gender differences, and educational practices	https://doi.org/10.1016/s0883-9026(97)00032-3	3	27	507	1998
+52	papulová (2015)	Entrepreneurship in the Eyes of the Young Generation	https://doi.org/10.1016/s2212-5671(15)01662-7	3	5	44	2015
+53	cassim (2020)	A Comparative Discussion of the Judicial Disqualification of Directors under the South African Companies Act	https://doi.org/10.1017/s0021855320000248	2	0	2	2020
+54	kourilsky (1997)	Entrepreneurship Education and Lower Socioeconomic Black Youth: An Empirical Investigation	https://doi.org/10.1023/a:1024629027806	3	4	64	1997
+55	williams (2004)	Youth Self Employment: Its Nature and Consequences	https://doi.org/10.1023/b:sbej.0000032035.30738.01	3	8	53	2004
+56	williams (2005)	Directors' disqualification	https://doi.org/10.1057/palgrave.jdg.2040059	2	2	2	2005
+57	dolan (2016)	Remaking Africa’s Informal Economies: Youth, Entrepreneurship and the Promise of Inclusion at the Bottom of the Pyramid	https://doi.org/10.1080/00220388.2015.1126249	3	3	135	2016
+58	turner (2005)	Young Entrepreneurs, Social Capital and Doi Moi in Hanoi, Vietnam	https://doi.org/10.1080/00420980500231563	3	5	94	2005
+59	zaremohzzabieh (2016)	Information and Communications Technology Acceptance by Youth Entrepreneurs in Rural Malaysian Communities: The Mediating Effects of Attitude and Entrepreneurial Intention	https://doi.org/10.1080/02681102.2015.1128384	3	2	51	2016
+60	ho (2025)	Impacts of school context and formal teaching on entrepreneurial attributes: a social learning perspective	https://doi.org/10.1080/03055698.2025.2540438	3	0	2	2025
+61	lorrain (1991)	YOUNG AND OLDER ENTREPRENEURS: AN EMPIRICAL STUDY OF DIFFERENCE	https://doi.org/10.1080/08276331.1991.10600384	3	1	27	1991
+62	tubadji (2019)	Fear-of-failure and cultural persistence in youth entrepreneurship	https://doi.org/10.1080/08276331.2019.1692999	3	3	38	2019
+63	dvouletý (2023)	Religion attitudes and youth entrepreneurship performance	https://doi.org/10.1080/08276331.2023.2182599	3	1	19	2023
+64	chang (2021)	What attracts young talent from Taiwan to start businesses in mainland China? A fuzzy analytic hierarchy process study	https://doi.org/10.1080/09537325.2021.1976747	3	1	6	2021
+65	sevilla‐pavón (2020)	Artefact co-construction in virtual exchange: ‘Youth Entrepreneurship for Society’	https://doi.org/10.1080/09588221.2020.1825096	3	1	20	2020
+66	fatoki (2012)	Triggers and Barriers to Latent Entrepreneurship in High Schools in South Africa	https://doi.org/10.1080/09718923.2012.11893040	3	2	10	2012
+67	loughrey (2024)	Individual accountability for corporate harms: disqualification and the role of public enforcement	https://doi.org/10.1080/10383441.2025.2502196	2	0	0	2024
+68	manolova (2019)	Youth entrepreneurship in emerging economies: can family support help navigate institutional voids?	https://doi.org/10.1080/10669868.2019.1624672	3	8	47	2019
+69	gribben (2018)	Tackling policy frustrations to youth entrepreneurship in the Western Balkans	https://doi.org/10.1080/13215906.2018.1479294	3	2	6	2018
+70	yserte (2019)	The relationship between capacities and entrepreneurial intention in secondary school students	https://doi.org/10.1080/1331677x.2019.1697328	3	4	26	2019
+71	pihie (2010)	Entrepreneurial attitude and entrepreneurial efficacy of technical secondary school students	https://doi.org/10.1080/13636820.2010.509806	3	4	76	2010
+72	paço (2011)	Teaching entrepreneurship to children: a case study	https://doi.org/10.1080/13636820.2011.609317	3	4	61	2011
+73	pascual (2017)	From ‘Employab-ility’ to ‘Entrepreneurial-ity’ in Spain: youth in the spotlight in times of crisis	https://doi.org/10.1080/13676261.2016.1273513	3	1	45	2017
+74	dvouletý (2018)	‘Scarred’ young entrepreneurs. Exploring young adults’ transition from former unemployment to self-employment	https://doi.org/10.1080/13676261.2018.1450971	3	7	82	2018
+75	pilková (2022)	Differences and similarities between key drivers of youth and senior starting entrepreneurs in Central and Eastern European countries	https://doi.org/10.1080/14631377.2022.2079058	3	2	7	2022
+76	cheong (2023)	Legal transplantation of minors’ contracts in India and Malaysia: ‘Weak’ Watson and a ‘misfitted’ transplant	https://doi.org/10.1080/14729342.2023.2189359	1	1	1	2023
+77	williams (2007)	Disqualifying Directors: A Remedy Worse than the Disease?	https://doi.org/10.1080/14735970.2007.11421514	2	3	9	2007
+78	kaki (2022)	Entrepreneurial Intention among Undergraduate Agricultural Students in the Republic of Benin	https://doi.org/10.1080/15228916.2022.2031584	3	2	22	2022
+79	karpova (2023)	Development and assessment of an applied STEM camp in fashion and entrepreneurship to advance social mobility of high school students	https://doi.org/10.1080/17543266.2023.2297191	3	1	3	2023
+80	benchrifa (2017)	Promoting student’s entrepreneurial mindset: Moroccan case	https://doi.org/10.1080/19186444.2017.1290922	3	0	12	2017
+81	dickel (2024)	Perspective-Taking or Feeling? The Role of Cognitive and Affective Empathy for Adolescents’ Social Entrepreneurial Intentions	https://doi.org/10.1080/19420676.2023.2299285	3	0	7	2024
+82	bruhn (2013)	Stimulating managerial capital in emerging markets: the impact of business training for young entrepreneurs	https://doi.org/10.1080/19439342.2013.780090	3	2	129	2013
+83	krause (2015)	Fuelling financial literacy: estimating the impact of youth entrepreneurship training in Tanzania	https://doi.org/10.1080/19439342.2015.1092463	3	4	28	2015
+84	beeka (2011)	Tourism Entrepreneurship as a Career Choice for the Young in Nigeria	https://doi.org/10.1080/21568316.2011.573924	3	1	3	2011
+85	kurniawan (2019)	Developing a measurement instrument for high school students’ entrepreneurial orientation	https://doi.org/10.1080/2331186x.2018.1564423	3	4	32	2019
+86	adeyanju (2023)	Does entrepreneurship improve the livelihood of young people? Evidence from the NDE program beneficiaries in Kano state, Nigeria	https://doi.org/10.1080/23311975.2023.2248735	3	0	4	2023
+87	shahriar (2024)	Entrepreneurial intention among university students of a developing economy: the mediating role of access to finance and entrepreneurship program	https://doi.org/10.1080/23311975.2024.2322021	3	0	31	2024
+88	choi (2023)	Theorizing eight enablers (8Es) of youth (early-stage) entrepreneurship	https://doi.org/10.1080/26437015.2023.2222551	3	0	4	2023
+89	swaminathan (2018)	Minors’ Contracts: A Major Problem with the Indian Contract Act, 1872	https://doi.org/10.1093/slr/hmy034	1	2	6	2018
+90	milman (2002)	Managing distressed companies: adapting to a new legal culture	https://doi.org/10.1108/03074350210767906	2	0	1	2002
+91	kickul (2008)	Are misalignments of perceptions and self‐efficacy causing gender gaps in entrepreneurial intentions among our nation's teens?	https://doi.org/10.1108/14626000810871709	3	16	244	2008
+92	oseifuah (2010)	Financial literacy and youth entrepreneurship in South Africa	https://doi.org/10.1108/20400701011073473	3	9	281	2010
+93	hunt (2021)	Entrepreneurship in Africa: Explaining Why it Became a Primary Solution to Youth Unemployment?	https://doi.org/10.1108/978-1-80071-322-220211008	3	0	1	2021
+94	bignotti (2018)	Discovering the entrepreneurial endowment of the youth	https://doi.org/10.1108/ajems-02-2016-0020	3	3	18	2018
+95	kirkley (2017)	Cultivating entrepreneurial behaviour: entrepreneurship education in secondary schools	https://doi.org/10.1108/apjie-04-2017-018	3	8	100	2017
+96	ridha (2017)	Entrepreneurship intention in agricultural sector of young generation in Indonesia	https://doi.org/10.1108/apjie-04-2017-022	3	4	159	2017
+97	torres (2024)	Factors influencing entrepreneurial intentions among Chilean secondary vocational students	https://doi.org/10.1108/arla-03-2023-0051	3	0	3	2024
+98	daniel (2020)	The role of junior enterprises in the development of students' entrepreneurial skills	https://doi.org/10.1108/et-03-2019-0049	3	2	28	2020
+99	aggarwal (2021)	Entrepreneurship as a career choice: impact of environments on high school students' intentions	https://doi.org/10.1108/et-07-2020-0206	3	1	24	2021
+100	randolph (2021)	Exploring differences in the antisocial behaviors of adolescent rule-breaking that affect entrepreneurial persistence	https://doi.org/10.1108/ijebr-03-2021-0179	3	0	8	2021
+101	sharma (2018)	Entrepreneurial intentions and perceived barriers to entrepreneurship among youth in Uttarakhand state of India	https://doi.org/10.1108/ijge-02-2018-0009	3	2	51	2018
+102	miniesy (2021)	Social media's impact on the empowerment of women and youth male entrepreneurs in Egypt	https://doi.org/10.1108/ijge-06-2021-0085	3	1	37	2021
+103	krafft (2021)	The promise and peril of youth entrepreneurship in the Middle East and North Africa	https://doi.org/10.1108/ijm-05-2020-0200	3	1	22	2021
+104	matricano (2022)	Young entrepreneurs and skills mismatch in school-to-work transition: empirical evidence from innovation processes managed in Italian NTBFs	https://doi.org/10.1108/ijm-09-2021-0547	3	0	10	2022
+105	gulzar (2021)	Youth entrepreneurial intentions: an integrated model of individual and contextual factors	https://doi.org/10.1108/ijoa-08-2021-2928	3	1	24	2021
+106	tinoco (2020)	Entrepreneurial career choice intentions among secondary students in Colombia: the role of entrepreneurial exposure	https://doi.org/10.1108/ijoem-10-2019-0872	3	0	26	2020
+107	patel (2024)	Does my school teach me entrepreneurship? School entrepreneurship curriculum and students’ entrepreneurial intention: a serial mediation-moderation analysis	https://doi.org/10.1108/ijse-05-2023-0350	3	1	5	2024
+108	okolo-obasi (2021)	Does agri-business/small and medium enterprise investment scheme (AGSMEIS) impact on youth entrepreneurship development in sub-Saharan Africa? Evidence from Nigeria	https://doi.org/10.1108/jeas-05-2021-0094	3	1	39	2021
+109	norberg (2017)	Entrepreneurship in Swedish upper secondary schools: governing active future citizens?	https://doi.org/10.1108/jec-06-2016-0020	3	1	9	2017
+110	aljaouni (2020)	Financial literacy programs and youth entrepreneurial attitudes: some insights from the Jordanian community	https://doi.org/10.1108/jec-07-2020-0128	3	4	30	2020
+111	hintikka (2022)	Let’s be entrepreneurs – Finnish youth’s attitudes toward entrepreneurship	https://doi.org/10.1108/jec-07-2021-0099	3	2	13	2022
+112	pillai (2018)	Social-cultural capital in youth entrepreneurship ecosystem: Southeast Asia	https://doi.org/10.1108/jec-08-2017-0063	3	1	34	2018
+113	morrar (2021)	The determinants of self-employment entry of Palestinian youth	https://doi.org/10.1108/jeee-06-2020-0184	3	0	20	2021
+114	londoño (2020)	Understanding the entrepreneurial intentions of youth: a PLS multi-group and FIMIX analysis using the model of goal-directed behavior	https://doi.org/10.1108/jeee-07-2019-0090	3	1	30	2020
+115	quagrainie (2022)	3Ps model of entrepreneurial resourcefulness among micro-youth entrepreneurs	https://doi.org/10.1108/jeee-07-2021-0276	3	1	10	2022
+116	nungsari (2021)	The formation of youth entrepreneurial intention in an emerging economy: the interaction between psychological traits and socioeconomic factors	https://doi.org/10.1108/jeee-08-2021-0312	3	1	32	2021
+117	vankov (2023)	The online entrepreneurship program effect on young people's self-efficacy and intention: an experiment in Argentina, Belgium, Bulgaria, China and Romania	https://doi.org/10.1108/jeee-12-2022-0385	3	0	5	2023
+118	caliskan (2020)	A comparative study on disqualification of company directors in the UK and Nigeria:	https://doi.org/10.1108/jfc-12-2019-0159	2	0	0	2020
+119	fubah (2025)	Youth entrepreneurship: a systematic literature review of the domain and future research agenda	https://doi.org/10.1108/jsbed-07-2024-0346	3	0	12	2025
+120	tundui (2025)	Cornerstones of a cathedral: the influence of adolescent aspirations on future entrepreneurial successes	https://doi.org/10.1108/jsbed-10-2024-0517	3	0	2	2025
+121	baxter (2013)	Youth Entrepreneurship Education and Training for Poverty Alleviation: A Review of International Literature and Local Experiences	https://doi.org/10.1108/s1479-3679(2013)0000023010	3	2	24	2013
+122	ranasinghe (2019)	Barriers and Drivers of SMEs’ Internationalisation in Emerging Markets: Study of Sri Lankan Youth Entrepreneurs	https://doi.org/10.1108/s2040-724620190000010013	3	1	6	2019
+123	ogamba (2018)	Millennials empowerment: youth entrepreneurship for sustainable development	https://doi.org/10.1108/wjemsd-05-2018-0048	3	4	59	2018
+124	damoah (2020)	Strategic factors predicting the likelihood of youth entrepreneurship in Ghana: a logistic regression analysis	https://doi.org/10.1108/wjemsd-06-2018-0057	3	3	30	2020
+125	rubia (2021)	Study of the Entrepreneurial Attitudes of STEM Students	https://doi.org/10.1109/access.2021.3103118	3	0	11	2021
+126	bai (2026)	Youth Entrepreneurship in the Agribusiness Sector in Tanzania	https://doi.org/10.1111/1467-8489.70066	3	0	1	2026
+127	wismans (2024)	Seeking the roots of entrepreneurship: Childhood and adolescence extraversion predict entrepreneurial intention in adults	https://doi.org/10.1111/apps.12531	3	1	4	2024
+128	obschonka (2016)	Adolescent Pathways to Entrepreneurship	https://doi.org/10.1111/cdep.12185	3	16	49	2016
+129	wheeler (1995)	Directors’ disqualification: insolvency practitioners and the decision-making process	https://doi.org/10.1111/j.1748-121x.1995.tb00063.x	2	1	34	1995
+130	geldhof (2014)	Fostering Youth Entrepreneurship: Preliminary Findings From the Young Entrepreneurs Study	https://doi.org/10.1111/jora.12086	3	27	115	2014
+131	alzúa (2020)	Beyond technical skills training: The impact of credit counseling on the entrepreneurial behavior of Ugandan youth	https://doi.org/10.1111/rode.12706	3	4	10	2020
+132	beeka (2011)	ENTREPRENEURSHIP AS A CAREER OPTION FOR AFRICAN YOUTHS	https://doi.org/10.1142/s1084946711001707	3	4	70	2011
+133	williams (2013)	CONTEXTUALIZING YOUTH ENTREPRENEURSHIP: THE CASE OF BOTSWANA'S YOUNG FARMERS FUND	https://doi.org/10.1142/s1084946713500222	3	4	20	2013
+134	tentama (2020)	Internal locus of control and entrepreneurial intention: A study on vocational high school students	https://doi.org/10.11591/edulearn.v14i1.13999	3	3	45	2020
+135	sari (2024)	Development of entrepreneurship education based on the menara berkah model in Indonesian vocational high schools	https://doi.org/10.11591/edulearn.v18i3.21003	3	0	1	2024
+136	annisa (2021)	The role of family support and internal locus of control in entrepreneurial intention of vocational high school students	https://doi.org/10.11591/ijere.v10i2.20934	3	1	37	2021
+137	sutiadiningsih (2023)	Can the teaching factory model improve the entrepreneurial intentions of vocational high school students?	https://doi.org/10.11591/ijere.v12i3.25652	3	0	6	2023
+138	tentama (2019)	Entrepreneurial intention of students reviewed from self-efficacy and family support in vocational high school	https://doi.org/10.11591/ijere.v8i3.20240	3	2	28	2019
+139	aladejebi (2020)	Entrepreneurship: An Option to Solving Unemployment Problem Among Nigerian Youths	https://doi.org/10.11648/j.ebm.20200606.14	3	0	15	2020
+140	med (2019)	Addressing Pedagogical Usability and Mobility Barriers in E-learning Systems: A Case of Youth Entrepreneurship Skill Development, Plan International Uganda	https://doi.org/10.11648/j.ijsdr.20190503.11	3	1	5	2019
+141	fitzgerald (1999)	Promoting Entrepreneurship among Inner-City High School Students	https://doi.org/10.1177/0042085999342003	3	1	13	1999
+142	weiss (2023)	The entrepreneurial gender gap: The role of in-group support and national embeddedness values in young women’s entrepreneurship	https://doi.org/10.1177/02662426231168556	3	2	25	2023
+143	price (2021)	The Treatment Effect of Business Education on the Supply of High School Entrepreneurs in Atlanta and New Orleans	https://doi.org/10.1177/05694345211016310	3	0	10	2021
+144	holdsworth (2019)	Young entrepreneurs and non-teleological temporality in Portugal and the UK	https://doi.org/10.1177/0961463x19873783	3	2	9	2019
+145	kar (2019)	Personality, Challenges and Performance: Evidence from Ethiopia’s Young Entrepreneurs	https://doi.org/10.1177/0970846419852497	3	0	5	2019
+146	holm (2021)	Making Entrepreneurs? Makerspaces and Entrepreneurial Intent Among High School Students	https://doi.org/10.1177/09713557211025652	3	1	16	2021
+147	kazmi (1999)	What Young Entrepreneurs Think and Do: A Study of Second-Generation Business Entrepreneurs	https://doi.org/10.1177/097135579900800104	3	2	27	1999
+148	low (2001)	The Adolescence of Entrepreneurship Research: Specification of Purpose	https://doi.org/10.1177/104225870102500402	3	1	337	2001
+149	walstad (1998)	Entrepreneurial Attitudes and Knowledge of Black Youth	https://doi.org/10.1177/104225879802300201	3	12	138	1998
+150	maleki (2021)	A cross-national study of youth entrepreneurship: The effect of family support	https://doi.org/10.1177/14657503211054284	3	3	50	2021
+151	cull (2006)	Mentoring Young Entrepreneurs: What Leads to Success?	https://doi.org/10.1177/174183050600400203	3	1	101	2006
+152	svotwa (2022)	Perceived Access to Finance, Entrepreneurial Self-Efficacy, Attitude Toward Entrepreneurship, Entrepreneurial Ability, and Entrepreneurial Intentions: A Botswana Youth Perspective	https://doi.org/10.1177/21582440221096437	3	3	68	2022
+153	arrufat (2023)	An Educational Framework in Digital Rights and Responsibilities for Young Entrepreneurs	https://doi.org/10.1177/21582440231208614	3	0	8	2023
+154	guerrero (2024)	Entrepreneurial Potential in Secondary School Students. An Exploratory Evaluation	https://doi.org/10.1177/21582440241256780	3	1	7	2024
+155	hadley (2022)	A Characterization and Pedagogical Analysis of Youth Entrepreneurship	https://doi.org/10.1177/25151274221096035	3	2	10	2022
+156	pukkinen (2023)	Curricular and Extracurricular Entrepreneurial Activities Supporting Entrepreneurial Self-Efficacy and Desirability of Rural Youth	https://doi.org/10.1177/25151274231190806	3	1	19	2023
+157	sharma (2014)	Effect of individual factors on youth entrepreneurship – a study of Uttarakhand state, India	https://doi.org/10.1186/2251-7316-2-3	3	12	55	2014
+158	mehari (2017)	Challenges and prospects of entrepreneurship development and job creation for youth unemployed: evidence from Addis Ababa and Dire Dawa city administrations, Ethiopia	https://doi.org/10.1186/s13731-017-0070-3	3	2	36	2017
+159	biney (2019)	Unearthing entrepreneurial opportunities among youth vendors and hawkers: challenges and strategies	https://doi.org/10.1186/s13731-018-0099-y	3	2	27	2019
+160	campo-ternera (2022)	Interaction of potential and effective entrepreneurial capabilities in adolescents: modeling youth entrepreneurship structure using structural equation modeling	https://doi.org/10.1186/s13731-022-00201-y	3	2	20	2022
+161	vankov (2023)	Entrepreneurship education 2-in-1: Helping young Bulgarians become more entrepreneurial in a 10-month parallel-group randomized trial	https://doi.org/10.1186/s13731-023-00331-x	3	1	7	2023
+162	martins (2023)	Factors influencing entrepreneurial intention to initiate new ventures: evidence from university students	https://doi.org/10.1186/s13731-023-00333-9	3	0	106	2023
+163	alzate (2024)	Research perspectives on youth social entrepreneurship: strategies, economy, and innovation	https://doi.org/10.1186/s13731-024-00410-7	3	0	28	2024
+164	ofosu-appiah (2025)	Socio-ecological barriers to youth entrepreneurship in sub-Saharan Africa: a systematic review of empirical evidence	https://doi.org/10.1186/s13731-025-00484-x	3	0	11	2025
+165	sharma (2014)	Impact of family capital & social capital on youth entrepreneurship – a study of Uttarakhand state, India	https://doi.org/10.1186/s40497-014-0014-3	3	8	50	2014
+166	jagannathan (2017)	Family, society and the individual: determinants of entrepreneurial attitudes among youth in Chennai, South India	https://doi.org/10.1186/s40497-017-0070-6	3	0	17	2017
+167	khumalo (2014)	An Eminent Volcanic Eruption : Youth Entrepreneurship	https://doi.org/10.12816/0018173	3	2	5	2014
+168	bilal (2021)	Influence of Financial Literacy and Educational Skills on Entrepreneurial Intent: Empirical Evidence from Young Entrepreneurs of Pakistan	https://doi.org/10.13106/jafeb.2021.vol8.no1.697	3	1	33	2021
+169	susantiningrum (2023)	Leveling Entrepreneurial Skills of Vocational Secondary School Students in Indonesia: Impact of Demographic Characteristics	https://doi.org/10.13152/ijrvet.10.1.6	3	1	7	2023
+170	guerrero (2020)	Basic business knowledge scale for secondary education students. Development and validation with Spanish teenagers	https://doi.org/10.1371/journal.pone.0235681	3	2	19	2020
+171	sierra (2021)	Measuring entrepreneurship in adolescents at school: New psychometric evidence on the BEPE-A	https://doi.org/10.1371/journal.pone.0250237	3	2	10	2021
+172	al-qadasi (2021)	Attitude of youth towards self-employment: Evidence from university students in Yemen	https://doi.org/10.1371/journal.pone.0257358	3	3	29	2021
+173	vasilescu (2025)	Exploring entrepreneurial intention among European Union youth by education and employment status	https://doi.org/10.1371/journal.pone.0318001	3	0	11	2025
+174	boldureanu (2024)	Entrepreneurship Development in European Union - Challenges and Opportunities for Young People	https://doi.org/10.14207/ejsd.2024.v13n2p79	3	1	7	2024
+175	cannone (2014)	Born global companies founded by young entrepreneurs. A multiple case study	https://doi.org/10.1504/ijeim.2014.062875	3	0	21	2014
+176	hulsink (2014)	The young, the fast and the furious: a study about the triggers and impediments of youth entrepreneurship	https://doi.org/10.1504/ijeim.2014.062876	3	8	63	2014
+177	minola (2014)	Are youth really different? New beliefs for old practices in entrepreneurship	https://doi.org/10.1504/ijeim.2014.062881	3	10	59	2014
+178	ierapetritis (2010)	Outlining the determinants of youth entrepreneurship in the Greek periphery	https://doi.org/10.1504/ijesb.2010.034959	3	2	7	2010
+179	shirokova (2020)	Moving from Intentions to Actions in Youth Entrepreneurship: An Institutional Perspective	https://doi.org/10.1515/erj-2019-0201	3	3	33	2020
+180	alshibani (2024)	The Entrepreneurial Intention-Action Relationships among Young Entrepreneurs: A Taxonomy-Based Perspective	https://doi.org/10.1515/erj-2023-0327	3	0	8	2024
+181	todorović (2016)	Strategic Management in Development of Youth and Women Entrepreneurship - Case of Serbia	https://doi.org/10.1515/orga-2016-0018	3	1	11	2016
+182	rahmatullah (2022)	The Effect of the Role of Economic Literacy, Entrepreneurial Literacy on Young Entrepreneurial Behavior	https://doi.org/10.15294/dp.v17i2.40274	3	0	9	2022
+183	mwangi (2013)	The Role of SACCO in Growth of Youth Entrepreneurship in Kenya: A Case of Nairobi County	https://doi.org/10.15580/gjbms.2013.3.021913477	3	1	22	2013
+184	holienka (2016)	Youth Entrepreneurship in Visegrad Countries	https://doi.org/10.15678/eber.2016.040407	3	3	25	2016
+185	gubik (2016)	Student Entrepreneurship in Hungary: Selected Results Based on GUESSS Survey	https://doi.org/10.15678/eber.2016.040408	3	3	25	2016
+186	preston (2012)	Minor Restrictions: Adolescence Across Legal Disciplines, the Infancy Doctrine, and the Restatement (Third) of Restitution and Unjust Enrichment	https://doi.org/10.17161/1808.20249	1	1	2	2012
+187	özcan (2020)	The Effect of Socio-Scientific Argumentation Method on Students' Entrepreneurship Perceptions	https://doi.org/10.17275/per.21.18.8.1	3	0	5	2020
+188	sanjaya (2021)	External Antecedents of Entrepreneurial Orientation in Junior High School Students	https://doi.org/10.17358/ijbe.7.3.209	3	0	3	2021
+189	soputan (2017)	Are Vocational High School Students Ready to be Entrepreneur?	https://doi.org/10.17509/invotec.v13i2.8264	3	2	9	2017
+190	kurniawan (2021)	Confirmatory Factor Analysis and Norming of the High School Student’s Entrepreneurial Orientation Scale	https://doi.org/10.17762/pae.v58i2.1052	3	1	6	2021
+191	oecd (2020)	Policy brief on recent developments in youth entrepreneurship	https://doi.org/10.1787/5f5c9b4e-en	3	4	107	2020
+192	halabisky (2012)	Entrepreneurial Activities in Europe - Youth Entrepreneurship	https://doi.org/10.1787/5jxrcmlf2f27-en	3	2	51	2012
+193	hofer (2010)	Shooting for the Moon: Good Practices in Local Youth Entrepreneurship Support	https://doi.org/10.1787/5km7rq0k8h9q-en	3	3	9	2010
+194	llisterri (2006)	Is Youth Entrepreneurship a Necessity or an Opportunity?: A First Exploration of Household and New Enterprise Surveys in Latin America	https://doi.org/10.18235/0008891	3	3	58	2006
+195	yohana (2020)	Factors Influencing the Development of Entrepreneurship Competency in Vocational High School Students: A Case Study	https://doi.org/10.18488/journal.61.2020.84.804.819	3	1	23	2020
+196	rusu (2020)	Assessing the Role of Access to Finance for Young Potential Entrepreneurs: The Case of Romania	https://doi.org/10.18502/kss.v4i1.5996	3	2	13	2020
+197	issoufou (2019)	CREATION OF YOUNG ENTREPRENEURS AS RESOURCES OF ECONOMIC DEVELOPMENT AND ALLEVIATION OF POVERTY IN MUSLIM COUNTRIES: AN ISLAMIC APPROACH	https://doi.org/10.18510/hssr.2019.75141	3	0	7	2019
+198	majid (2020)	DOES SCHOOL COOPERATIVE PROGRAM INCREASE ENTREPRENEURIAL INTENTION? A STRUCTURAL EQUATION MODELLING APPROACH	https://doi.org/10.18510/hssr.2020.8272	3	0	2	2020
+199	irwansyah (2021)	FAMILY BUSINESS BACKGROUND AND ENTREPRENEURSHIP FRIENDLY ENVIRONMENT AT UNIVERSITY ON STUDENTS INTENTION TO START-UP NEW BUSINESS	https://doi.org/10.18510/hssr.2021.9213	3	0	8	2021
+200	shittu (2017)	Promoting Youth Entrepreneurship: The Role of Mentoring	https://doi.org/10.19088/1968-2017.132	3	6	30	2017
+201	muchira (2018)	Fostering Agribusiness Entrepreneurship for Kenyan Youth through Practice-Based Education	https://doi.org/10.19088/1968-2018.175	3	0	10	2018
+202	luis-rico (2020)	Entrepreneurial Interest and Entrepreneurial Competence Among Spanish Youth: An Analysis with Artificial Neural Networks	https://doi.org/10.3390/su12041351	3	4	28	2020
+203	chaudhry (2010)	Limited Liability Partnership in India	https://doi.org/10.2139/ssrn.1708215	4	0	0	2010
+204	brixiová (2014)	Skills and Youth Entrepreneurship in Africa: Analysis with Evidence from Swaziland	https://doi.org/10.2139/ssrn.2445001	3	1	38	2014
+205	barnes (2015)	Arrested Development: Rethinking the Contract Age of Majority for the 21-Century Adolescent	https://doi.org/10.2139/ssrn.2709423	1	0	0	2015
+206	kuriakose (2016)	Nurturing Youth Entrepreneurship to Tackle Youth Unemployment: A Case Study of Kerala	https://doi.org/10.2139/ssrn.2789402	3	1	8	2016
+207	whelan (2020)	The Emerging Contribution of Director Disqualification in UK Competition Law	https://doi.org/10.1093/oso/9780198868026.003.0011	2	1	2	2020
+208	daniel (2005)	An Assessment of Youth Entrepreneurship Programs in the United States	https://doi.org/10.2139/ssrn.5571950	3	0	11	2005
+209	sambo (2016)	Factors affecting youth entrepreneurship development within Kibera, Kenya: the perspective of entrepreneurship education	https://doi.org/10.21511/ppm.14(2-2).2016.09	3	5	24	2016
+210	sambo (2016)	Factors affecting youth entrepreneurship development in Kibera district, Kenya	https://doi.org/10.21511/ppm.14(3-1).2016.02	3	4	14	2016
+211	chiloane-tsoka (2016)	Factors influencing the Perceptions of youth entrepreneurship development in South Africa	https://doi.org/10.21511/ppm.14(3-2).2016.12	3	1	2	2016
+212	wasilczuk (2022)	Youth attitude to entrepreneurship in Eastern and Central European countries: Gender aspect	https://doi.org/10.21511/ppm.20(3).2022.07	3	1	8	2022
+213	tleuberdinova (2025)	Youth entrepreneurship in Kazakhstan’s tourism: Potential and incentives for innovation	https://doi.org/10.21511/ppm.23(3).2025.11	3	0	3	2025
+214	priyono (2024)	The influence of creativity and learning motivation on entrepreneurial intentions of fisheries vocational high school students	https://doi.org/10.21831/jpv.v14i1.69869	3	0	3	2024
+215	gemma (2015)	Creating Youth Employment through Entrepreneurship Financing: The Uganda Youth Venture Capital Fund	https://doi.org/10.22004/ag.econ.206130	3	0	15	2015
+216	senou (2022)	Access to finance and rural youth entrepreneurship in Benin: Is there a gender gap?	https://doi.org/10.1111/1467-8268.12623	3	5	49	2022
+217	santos (2018)	Entrepreneurial Intention of Accountancy, Business and Management (ABM) Students in Nueva Ecija, Philippines	https://doi.org/10.22161/ijels.3.2.17	3	0	2	2018
+218	rosniawati (2025)	Modeling entrepreneurial intentions among vocational high school students: The roles of education, family, and school support	https://doi.org/10.22515/jemin.v5i1.11152	3	0	0	2025
+219	radebe (2019)	The Challenges/Barriers Preventing the South African Youth in Becoming Entrepreneurs: South African Overview	https://doi.org/10.22610/jebs.v11i4(j).2921	3	6	32	2019
+220	shambare (2013)	Barriers to Student Entrepreneurship in South Africa	https://doi.org/10.22610/jebs.v5i7.419	3	3	44	2013
+221	gwija (2014)	Challenges and Prospects of Youth Entrepreneurship Development in a Designated Community in the Western Cape, South Africa	https://doi.org/10.22610/jebs.v6i1.465	3	5	60	2014
+222	choi (2021)	Building Communication Awareness for the Next Generation: Reviewing the Factors Inhibiting Youth Entrepreneurial Activity in Korea	https://doi.org/10.22682/bcrp.2021.4.2.71	3	1	1	2021
+223	abdullah (2021)	Investigating the Limitations of Integrated Tasks on Youth Entrepreneurship in Kurdistan Region	https://doi.org/10.24182/2073-9885-2021-14-2-179-190	3	0	16	2021
+224	widyastuti (2023)	Entrepreneurial Awareness and Entrepreneurial Intention: Understanding the Role of Family and School	https://doi.org/10.2478/sbe-2023-0040	3	0	5	2023
+225	roman (2019)	The Young Entrepreneurs of Europe and the Role of International Mobility	https://doi.org/10.24818/ea/2019/s13/763	3	0	9	2019
+226	pīgozne (2019)	Promoting Youth Entrepreneurship and Employability through Non-Formal and Informal Learning: The Latvia Case	https://doi.org/10.26529/cepsj.303	3	2	14	2019
+227	vutsova (2023)	The Youth Entrepreneurship as Response to the Youth Unemployment - Examples of Western Balkan Region	https://doi.org/10.26668/businessreview/2023.v8i6.2299	3	1	7	2023
+228	shofwan (2023)	Entrepreneurship Education: Encouraging Entrepreneurial Intentions for Equality Education Students in Semarang	https://doi.org/10.26803/ijlter.22.6.10	3	1	11	2023
+229	sarkar (2024)	THE IMPACT OF ENTREPRENEURIAL COMPETENCY ON EDUCATED YOUTHS: A PATHWAY TO SUSTAINABLE DEVELOPMENT	https://doi.org/10.29121/shodhkosh.v5.i5.2024.1617	3	0	8	2024
+230	girgis (2009)	Corporate Directors’ Disqualification: The New Canadian Regime	https://doi.org/10.29173/alr222	2	1	1	2009
+231	rosniawati (2025)	Enhancing entrepreneurial intentions among vocational high school students	https://doi.org/10.29210/020255012	3	0	1	2025
+232	madondo (2024)	YOUTH PERCEPTIONS TOWARDS ENTREPRENEURSHIP IN SOUTH AFRICA	https://doi.org/10.30525/2256-0742/2024-10-4-16-25	3	0	4	2024
+233	boldureanu (2013)	STUDENTS' ENTREPRENEURIAL COMPETENCIES AND ORIENTATION: CURRENT STATUS AND PERSPECTIVES	https://doi.org/10.30638/eemj.2013.258	3	1	13	2013
+234	effendi (2023)	School Environment Impact on Entrepreneurial Intention Mediated By Financial Literacy and Entrepreneurial Characteristics	https://doi.org/10.31098/ijeass.v3i1.1554	3	1	4	2023
+235	ndebele (2022)	The Challenges of Youth Entrepreneurship from a Local Government Perspective in South Africa	https://doi.org/10.31098/ijmesh.v5i2.1149	3	2	8	2022
+236	zwane (2021)	Is Youth Entrepreneurship Key to Addressing Youth Unemployment? Interrogating South Africa’s Youth Unemployment Dilemma	https://doi.org/10.31901/24566756.2021/69.1-3.2284	3	3	9	2021
+237	chinomona (2020)	The influence of entrepreneurial training, access to finance, entrepreneurial capacity, entrepreneurial atmosphere on youth entrepreneurship	https://doi.org/10.31920/1750-4562/2020/15n1a4	3	2	13	2020
+238	obschonka (2012)	Social Competencies in Childhood and Adolescence and Entrepreneurship in Young Adulthood: A Two-study Analysis	https://doi.org/10.3233/dev-2012-12108	3	1	21	2012
+239	saw (2012)	Tracing Entrepreneurship Orientation in Adolescence to Business Ownership	https://doi.org/10.3233/dev-2012-12110	3	7	13	2012
+240	ahmed (2022)	Psychological factors predicting the likelihood of youth entrepreneurship in Ethiopia	https://doi.org/10.3233/hsm-220034	3	1	7	2022
+241	hashim (2023)	MINORS AND THEIR INCAPACITY TO CONTRACT: A REVISIT	https://doi.org/10.32890/uumjls2023.14.1.11	1	0	1	2023
+242	masha (2022)	Promoting Youth Empowerment through Business Mentorship in South Africa	https://doi.org/10.32936/pssj.v6i1.291	3	0	12	2022
+243	ndlovu (2024)	CONTEXTUALISING ENTREPRENEURSHIP AS A PANACEA TO YOUTH UNEMPLOYMENT IN SOUTH AFRICA	https://doi.org/10.32936/pssj.v8i1.430	3	1	11	2024
+244	ahmed (2019)	Influencing Youth Involvement in Entrepreneurship: Implications for Policy Makers in the Kingdom of Bahrain	https://doi.org/10.33166/acdmhr.2019.03.005	3	0	5	2019
+245	siew (2025)	FOSTERING CREATIVE THINKING IN ENTREPRENEURSHIP AMONG RURAL STUDENTS THROUGH SOCIO-SCIENTIFIC ISSUES AND DESIGN THINKING INTEGRATION IN SCIENCE EDUCATION	https://doi.org/10.33225/jbse/25.24.169	3	0	4	2025
+246	belcher (2012)	What Makes a Director Fit? An Analysis of the Workings of Section 17 of the Company Directors Disqualification Act 1986	https://doi.org/10.3366/elr.2012.0121	2	1	4	2012
+247	ho (2018)	Impact of Entrepreneurship Training on Entrepreneurial Efficacy and Alertness among Adolescent Youth	https://doi.org/10.3389/feduc.2018.00013	3	5	103	2018
+248	chilenga (2022)	The entrepreneurial mindset and self-employment intention of high school learners: The moderating role of family business ownership	https://doi.org/10.3389/feduc.2022.946389	3	2	13	2022
+249	pérez-luyo (2023)	Green entrepreneurship intention among high school students: a teachers’ view	https://doi.org/10.3389/feduc.2023.1225819	3	0	6	2023
+250	huang (2022)	Exploring the Effect of In Situ Urbanization on Youth Entrepreneurship in Suburban Areas with Low-Medium Development in China--A Way Forward to Sustainable Entrepreneurship Mechanism	https://doi.org/10.3389/fenvs.2022.927918	3	1	7	2022
+251	wang (2021)	The Impact of Young Entrepreneurs’ Network Entrepreneurship Education and Management System Innovation on Students’ Entrepreneurial Psychology	https://doi.org/10.3389/fpsyg.2021.731317	3	1	7	2021
+252	cao (2022)	Role of personality traits for entrepreneurial intentions of young entrepreneurs: A case study of higher education institution	https://doi.org/10.3389/fpsyg.2022.1010412	3	1	38	2022
+253	shadiev (2022)	Facilitating Students’ Creativity, Innovation, and Entrepreneurship in a Telecollaborative Project	https://doi.org/10.3389/fpsyg.2022.887620	3	1	23	2022
+254	yuan (2022)	Coming back home to start up a business? A comparison between youth from rural and urban backgrounds in China	https://doi.org/10.3389/fpsyg.2022.962419	3	0	16	2022
+255	nyagwaya (2026)	Youth agency and participatory pathways in advancing sustainable agriculture entrepreneurship	https://doi.org/10.3389/fsufs.2026.1823768	3	0	2	2026
+256	khodor (2024)	Exploring Entrepreneurial Intention and Student Engagement of Youth Living in Poverty	https://doi.org/10.3390/bs14110995	3	1	3	2024
+257	lekutle (2023)	The Effects of Entrepreneurship Leadership on Youth Entrepreneurial Intentions Post-COVID-19: The Case of Gauteng	https://doi.org/10.3390/businesses3040035	3	0	5	2023
+258	sternberg (2023)	Youth Entrepreneurship in Germany: Empirical Evidence on the How, the Why, the How Many, the Who and the When	https://doi.org/10.3390/economies11060161	3	1	6	2023
+259	tingey (2020)	Entrepreneurial, Economic, and Social Well-Being Outcomes from an RCT of a Youth Entrepreneurship Education Intervention among Native American Adolescents	https://doi.org/10.3390/ijerph17072383	3	2	33	2020
+260	rico (2020)	The Association of Parental Interest in Entrepreneurship with the Entrepreneurial Interest of Spanish Youth	https://doi.org/10.3390/ijerph17134744	3	3	28	2020
+261	dragin (2024)	Exploring the Link Between Openness and Entrepreneurial Capacity in Young People: Building Resilient and Sustainable Rural Territories	https://doi.org/10.3390/land13111827	3	0	4	2024
+262	asimakopoulos (2019)	Entrepreneurial Intention of Engineering Students: The Role of Social Norms and Entrepreneurial Self-Efficacy	https://doi.org/10.3390/su11164314	3	2	138	2019
+263	ogunmodede (2020)	Unlocking the Potential of Agribusiness in Africa through Youth Participation: An Impact Evaluation of N-Power Agro Empowerment Program in Nigeria	https://doi.org/10.3390/su12145737	3	3	37	2020
+264	yamaguchi (2020)	Young People’s Perceptions about the Difficulties of Entrepreneurship and Developing Rural Properties in Family Agriculture	https://doi.org/10.3390/su12218783	3	1	23	2020
+265	adeyanju (2021)	Youth Agricultural Entrepreneurship: Assessing the Impact of Agricultural Training Programmes on Performance	https://doi.org/10.3390/su13041697	3	7	65	2021
+266	ephrem (2021)	Entrepreneurial Motivation, Psychological Capital, and Business Success of Young Entrepreneurs in the DRC	https://doi.org/10.3390/su13084087	3	1	61	2021
+267	pérez-encinas (2021)	Are There Differences and Complementarities between Senior and Young Entrepreneurs? An Intergenerational Perspective	https://doi.org/10.3390/su13095202	3	1	20	2021
+268	gavriluță (2022)	Sustainability and Employability in the Time of COVID-19. Youth, Education and Entrepreneurship in EU Countries	https://doi.org/10.3390/su14031589	3	1	55	2022
+269	owusu-ansah (2022)	Auto-Rickshaw Repair, Servicing and Maintenance for Youth-in-Entrepreneurship in Kumasi	https://doi.org/10.3390/su14148570	3	0	2	2022
+270	kim (2022)	Predictors of Entrepreneurial Intention among High School Students in South Korea	https://doi.org/10.3390/su142114168	3	0	5	2022
+271	ferdousi (2022)	Fostering Youth Entrepreneurship Development through Social Business—Evidence from Bangladesh	https://doi.org/10.3390/su15010756	3	0	13	2022
+272	beltrán (2023)	Characterisation of Youth Entrepreneurship in Medellín-Colombia Using Machine Learning	https://doi.org/10.3390/su151310297	3	0	7	2023
+273	zimbroff (2017)	Beyond Lemonade Stands to Main Street Business Development: A Youth Entrepreneurship Curriculum	https://doi.org/10.34068/joe.55.03.13	3	1	2	2017
+274	adha (2023)	AUTHORITATIVE PARENTING STYLES AS ANTECEDENT OF ENTREPRENEURIAL INTENTIONS FOR VOCATIONAL HIGH SCHOOL STUDENTS	https://doi.org/10.35782/jcpp.2023.4.06	3	0	1	2023
+275	bilewicz (2021)	Intentions and Barriers of Youth Entrepreneurship in Belarus	https://doi.org/10.35808/ersj/2317	3	0	2	2021
+276	boris (2022)	Youth Entrepreneurship Support Model and Youth Business Associations	https://doi.org/10.37394/23207.2022.19.149	3	1	8	2022
+277	langevang (2012)	Beyond necessity and opportunity entrepreneurship: motivations and aspirations of young entrepreneurs in Uganda	https://doi.org/10.3828/idpr.2012.26	3	3	128	2012
+278	pihie (2011)	Malay Secondary School Students’ Entrepreneurial Attitude Orientation and Entrepreneurial Self-efficacy: A Descriptive Study	https://doi.org/10.3923/jas.2011.316.322	3	2	61	2011
+279	cahayani (2016)	The Role of Entrepreneurial Spirit in Indonesian Youths and Housewives to Reduce Unemployment and Poverty Rate	https://doi.org/10.4018/978-1-5225-2008-5.ch009	3	1	4	2016
+280	masenya (2021)	Promotion of Digital Entrepreneurship for Youth Employability in the Post Covid-19 Era	https://doi.org/10.4018/978-1-7998-6632-9.ch007	3	0	8	2021
+281	baporikar (2014)	Youth Entrepreneurship in Indian Scenario	https://doi.org/10.4018/ijabim.2014040106	3	3	26	2014
+282	dzingirai (2020)	Demographic Determinants of Youth Entrepreneurial Success	https://doi.org/10.4018/ijsecsr.2020070101	3	0	19	2020
+283	lakmal (2023)	Evaluation on entrepreneurial intentions of Sri Lankan youth generation with special reference to Kurunegala district	https://doi.org/10.4038/sljbf.v6i2.50	3	0	2	2023
+284	fumero (2015)	Promoting entrepreneurial potential in adolescents: A pilot study based on intergenerational contact	https://doi.org/10.4102/sajbm.v46i3.97	3	1	10	2015
+285	nade (2021)	The influence of agri-entrepreneurship courses studied on youth farm entrepreneurial intention: Evidence from Folk Development Colleges in Tanzania	https://doi.org/10.4102/sajems.v24i1.3788	3	1	15	2021
+286	zwane (2024)	Entrepreneurship interventions and the intentions of South African youths to start own business	https://doi.org/10.4102/sajesbm.v16i1.944	3	1	7	2024
+287	mhlongo (2025)	Entrepreneurial intention among youths: The role of entrepreneurial education and passion	https://doi.org/10.4102/sajesbm.v17i1.982	3	0	7	2025
+288	farradinna (2025)	Mediating role of psychological capital in achievement goals’ impact on vocational students’ entrepreneurial readiness	https://doi.org/10.4102/sajip.v51i0.2253	3	0	4	2025
+289	gobbi (2014)	Making Youth Entrepreneurship Work in Sub-Saharan Africa: Some Factors of Success	https://doi.org/10.4236/ojbm.2014.24036	3	4	22	2014
+290	blanchflower (2009)	What makes a young entrepreneur?	https://doi.org/10.4324/9780203881965-32	3	1	21	2009
+291	gough (2016)	Young Entrepreneurs in Sub-Saharan Africa	https://doi.org/10.4324/9781315730257	3	1	73	2016
+292	chigunta (2016)	Measuring and promoting youth entrepreneurship in Zambia	https://doi.org/10.4324/9781315730257-5	3	1	13	2016
+293	dallago (2017)	Youth Entrepreneurship and Local Development in Central and Eastern Europe	https://doi.org/10.4324/9781351142649	3	4	33	2017
+294	mante (2022)	DIMENSIONS OF ENTREPRENEURIAL INTENTION OF SENIOR HIGH SCHOOL STUDENTS: AN EXPLORATORY FACTOR ANALYSIS	https://doi.org/10.46827/ejmms.v7i3.1274	3	0	4	2022
+295	bugaje (2020)	DEVELOPING ENTREPRENEURSHIP SKILLS IN SENIOR SECONDARY SCHOOL STUDENTS: VERITABLE TOOLS FOR COMMUNITY DEVELOPMENT IN KANO METROPOLIS, NIGERIA	https://doi.org/10.47434/hynses78	3	0	3	2020
+296	brown (2022)	Effects of a Simulation on Eighth Grade Students’ Business Management Knowledge and Entrepreneurial Intent in an Exploratory Agriculture Course	https://doi.org/10.5032/jae.2022.02088	3	1	9	2022
+297	matlhake (2025)	Assessing the Barriers Faced by Youth-Owned Micro, Small and Medium Enterprises in Johannesburg	https://doi.org/10.51137/wrp.ijarbm.2025.lmay.45665	3	0	3	2025
+298	musariwa (2023)	An Assessment of University in Entrepreneurship Training as a Means of Reducing Youth Unemployment in South Africa: A Case of Durban University of Technology	https://doi.org/10.51415/ajims.v5i1.1248	3	0	14	2023
+299	makina (2022)	SOCIO-CULTURAL BARRIERS TO YOUTH ENTREPRENEURSHIP IN AFRICA. A STUDY OF YOUNG CONGOLESE GRADUATES	https://doi.org/10.51594/ijmer.v4i2.300	3	1	3	2022
+300	biers (2006)	Experiential Learning: A Process for Teaching Youth Entrepreneurship	https://doi.org/10.5195/jyd.2006.386	3	1	4	2006
+301	hussain (2024)	Capacity of Minor’s Contracts under the Contract Act in Pakistan: A Critical Appraisal	https://doi.org/10.52131/ctls.2024.0401.0032	1	0	0	2024
+302	anderson (2014)	Directors' Liability for Fraudulent Phoenix Activity—A Comparison of the Australian and UK Approaches	https://doi.org/10.5235/14735970.14.1.139	2	0	2	2014
+303	dendup (2017)	Effect of Individual Factor on Entrepreneurship Intention among Undergraduate Students in Bhutan	https://doi.org/10.5296/wjbm.v3i2.11779	3	0	5	2017
+304	karanassios (2006)	EU Strategies to Encourage Youth Entrepreneurship	https://doi.org/10.5367/000000006776150747	3	2	23	2006
+305	hickie (2011)	The Development of Human Capital in Young Entrepreneurs	https://doi.org/10.5367/ihe.2011.0070	3	1	22	2011
+306	bullock (2025)	The Development of Inclusive Agriculture Entrepreneurship Education Ecosystems for Young Entrepreneurs in Uganda	https://doi.org/10.53703/001c.138475	3	0	4	2025
+307	ajah (2022)	Investigating the Motivating Factors of Youths-Students Interest to Become Entrepreneurs: A Case of Anambra State, Nigeria	https://doi.org/10.55220/25766759.v7i1.116	3	0	0	2022
+308	kim-soon (2013)	Discriminate Analyses of Motivators and Obstacles on Youth Entrepreneurial Intention	https://doi.org/10.5539/ass.v9n17p53	3	1	12	2013
+309	fatoki (2011)	AN INVESTIGATION INTO THE OBSTACLES TO YOUTH ENTREPRENEURSHIP IN SOUTH AFRICA	https://doi.org/10.5539/ibr.v4n2p161	3	31	150	2011
+310	heilbrunn (2010)	Advancing Entrepreneurship in An Elementary School: A Case Study	https://doi.org/10.5539/ies.v3n2p174	3	0	31	2010
+311	matricano (2018)	Grey vs. Young Entrepreneurs: Are They Really That Different in Terms of Entrepreneurial Intentions? Empirical Evidence from Italy	https://doi.org/10.5539/ijbm.v13n2p76	3	1	21	2018
+312	tarso (2024)	Unlocking Potential with Entrepreneurship Training for Vocational High School Students	https://doi.org/10.56741/jscd.v1i02.737	3	0	2	2024
+313	senou (2022)	Youth Entrepreneurship Dynamics in Benin: Was Access to Finance the Missing Piece for Opportunistic Self-Employment?	https://doi.org/10.57229/2373-1761.1424	3	0	4	2022
+314	rusu (2022)	Determinants of Entrepreneurial Intentions of Youth: The Role of Access to Finance	https://doi.org/10.5755/j01.ee.33.1.28716	3	2	47	2022
+315	djordjević (2021)	Modelling youth entrepreneurship intentions: A ten-year research	https://doi.org/10.5771/0949-6181-2021-4-617	3	4	14	2021
+316	leffler (2012)	Entrepreneurship in Schools and the Invisible of Gender: A Swedish Context	https://doi.org/10.5772/36669	3	1	10	2012
+317	tingey (2016)	Entrepreneurship education: A strength-based approach to substance use and suicide prevention for American Indian adolescents	https://doi.org/10.5820/aian.2303.2016.248	3	3	32	2016
+318	larzelere (2019)	Evaluation of an Entrepreneurship Education Intervention for American Indian Adolescents: Trial Design and Baseline Sample Characteristics	https://doi.org/10.5820/aian.2603.2019.1	3	1	4	2019
+319	fatoki (2014)	Factors Motivating Young South African Women to Become Entrepreneurs	https://doi.org/10.5901/mjss.2014.v5n16p184	3	1	28	2014
+320	gwija (2014)	Assessing the impact of support structures and initiatives to youth entrepreneurship development in a selected Township in the Western Cape Province of South Africa	https://doi.org/10.5901/mjss.2014.v5n1p61	3	1	12	2014
+321	mishi (2014)	Entrepreneurial Awareness among High School Learners: Case Study of Buffalo City Metropolitan Municipality	https://doi.org/10.5901/mjss.2014.v5n8p146	3	3	8	2014
+322	dotong (2023)	The Entrepreneurial Intention of Business Students: Applying the Theory of Planned Behavior and Theory of Reasoned Action	https://doi.org/10.59324/ejtas.2023.1(5).03	3	0	6	2023
+323	ćoćkalo (2017)	Analysis of possibilities for improving entrepreneurial behaviour of young people: Research results in Central Banat district	https://doi.org/10.5937/jemc1702097c	3	2	11	2017
+324	bakator (2018)	Lean startups with industry 4.0 technologies: Overcoming the challenges of youth entrepreneurship in Serbia	https://doi.org/10.5937/jemc1802089b	3	3	19	2018
+325	ćoćkalo (2020)	Youth entrepreneurship development: A review of literature and ten-year research results	https://doi.org/10.5937/jemc2002151q	3	3	21	2020
+326	bakator (2022)	Development of a youth entrepreneurship model for sustainable business growth	https://doi.org/10.5937/jemc2201003b	3	2	11	2022
+327	khalili (2024)	Assessing the Impact of social media on Youth's Entrepreneurship Development in Afghanistan	https://doi.org/10.59890/ijist.v2i5.1754	3	0	1	2024
+328	reyes (2015)	Impact of various Teaching Methodologies on the Entrepreneurial awareness and intention of Students at the University of the Philippines Los Banos	https://doi.org/10.6007/ijarbss/v5-i7/1746	3	1	6	2015
+329	nawang (2016)	Conceptual Framework of Adolescent’s Intention to Involving in Entrepreneurship at Malaysia	https://doi.org/10.6007/ijarbss/v6-i2/2022	3	0	1	2016
+330	sutrisno (2024)	The Role of Business Incubators in Enhancing Human Resource Competence and Encouraging Entrepreneurship among Young People	https://doi.org/10.61100/j.tirakat.v1i2.184	3	1	4	2024
+331	aya (2018)	FACTORS AFFECTING GROWTH OF YOUTH LED SMALL AND MEDIUM ENTERPRISES IN KENYA: A CASE STUDY OF GARMENT ENTERPRISES IN CENTRAL BUSINESS DISTRICT, NAIROBI COUNTY, KENYA	https://doi.org/10.61426/sjbcm.v5i3.855	3	0	0	2018
+332	kassahun (2020)	Determinants of Youth Entrepreneurship in Ethiopia Specific Evidence from Graduated Unemployed Youth in Debre Tabor	https://doi.org/10.7176/ejbm/12-4-02	3	0	2	2020
+333	omerbegović-bijelović (2016)	Elements for Designing Stakeholders’ Programmes of Encouraging Young People to Engage in Entrepreneurship	https://doi.org/10.7595/management.fon.2016.0027	3	0	1	2016
+334	vega (2016)	Entrepreneurship and Adolescents	https://doi.org/10.7821/naer.2016.7.165	3	7	29	2016
+335	dzemyda (2014)	Sustainable youth entrepreneurship in conditions of global economy toward energy security	https://doi.org/10.9770/jesi.2014.1.4(7)	3	0	23	2014
+336	zhartay (2020)	Development of the youth entrepreneurship: example of Kazakhstan	https://doi.org/10.9770/jesi.2020.8.1(80)	3	3	20	2020
+337	vankov (2022)	Understanding the predictors of entrepreneurial intentions of young people from Argentina, Belgium, Bulgaria, China, and Romania	https://doi.org/10.9770/jesi.2022.9.3(23)	3	3	13	2022
+338	ridzwan (2017)	Issues and Challenges among Young Entrepreneurs in Malaysia	https://doi.org/10.9790/487x-1903028084	3	0	34	2017
+339	steenekamp (2009)	An exploratory study of the entrepreneurial attitudes of secondary school learners	https://openalex.org/W1487010337	3	1	5	2009
+340	yankson (2015)	Youth Entrepreneurship in Auto Spare Parts Sales and Repair Service in Accra, Ghana	https://openalex.org/W1491323819	3	2	4	2015
+341	williams (2005)	Delinquent directors : an analysis of the objectives and success of section 6 of the Company Directors Disqualification Act 1986	https://openalex.org/W1495339887	2	1	1	2005
+342	nwigwe (2010)	Promoting youth entrepreneurship in Lagos, Nigeria	https://openalex.org/W1513642587	3	1	5	2010
+343	arsalidou (2010)	The banking crisis: rethinking and refining the accountability of bank directors	https://openalex.org/W1517853134	2	1	4	2010
+344	gwija (2014)	Challenges and prospects of youth entrepreneurship in Khayelitsha, Western Cape	https://openalex.org/W1525517154	3	1	4	2014
+345	haftendorn (2003)	Facilitating youth entrepreneurship. An analysis of awareness and promotion programmes in formal and non-formal education	https://openalex.org/W1546802543	3	3	16	2003
+346	swanepoel (2009)	The effect of the interventions of the South African Breweries' Kickstart Youth Entrepreneurship Programme on entrepreneurial and small business performance in South Africa	https://openalex.org/W1555234266	3	1	7	2009
+347	chigunta (2005)	Being "real" about youth entrepreneurship in Eastern and Southern Africa: implications for adults, institutions and sector structures	https://openalex.org/W1563071985	3	11	73	2005
+348	oyelola (2014)	Entrepreneurship Education: Solution to Youth Unemployment in Nigeria	https://openalex.org/W1572593463	3	0	13	2014
+349	malyadri (2012)	Youth Entrepreneurship: Key Challenges for Inclusive Development	https://openalex.org/W1573805944	3	1	6	2012
+350	davies (2003)	Gower and Davies' principles of modern company law	https://openalex.org/W1587887424	2	1	237	2003
+351	selvadurai (2017)	Malay youth entrepreneurship in Malaysia : An empirical update	https://openalex.org/W1664359477	3	1	27	2017
+352	dash (2012)	Youth Entrepreneurship as a Way of Boosting Indian Economic Competitiveness: A Study of Orissa	https://openalex.org/W1820730440	3	3	29	2012
+353	morse (2011)	Palmer's Limited Liability Partnership Law	https://openalex.org/W1835279801	2	1	5	2011
+354	olokundun (2014)	An assessment of the taught entrepreneurship programin Nigerian secondary schools	https://openalex.org/W1841538921	3	1	8	2014
+355	uddin (2015)	Barriers and Incentives for Youth Entrepreneurship Start-Ups: Evidence from Bangladesh	https://openalex.org/W1854853062	3	4	16	2015
+356	opoku-antwi (2012)	ENTREPRENEURIAL INTENTION AMONG SENIOR HIGH SCHOOL STUDENTS IN THE SUNYANI MUNICIPALITY	https://openalex.org/W1962482793	3	2	32	2012
+357	godsey (2010)	Entrepreneur Role Models and High School Entrepreneurship Career Choice: Results of a Field Experiment	https://openalex.org/W2106130293	3	3	18	2010
+358	steenekamp (2011)	An investigation into youth entrepreneurship in selected South African secondary schools: an exploratory study	https://openalex.org/W2139610671	3	10	62	2011
+359	schoof (2008)	Youth entrepreneurship : measures to overcome the barriers facing youth	https://openalex.org/W2141821920	3	2	13	2008
+360	maxwell (2002)	RECOMMENDATIONS FOR CONNECTING WEST AFRICAN YOUTH TO ENTREPRENEURSHIP AND SMALL BUSINESS THROUGH A MULTIPLE LEVEL STRATEGY	https://openalex.org/W2160799968	3	2	8	2002
+361	kususanto (2015)	UTILIZING "TRADERS" BOARD GAME TO IMPROVE ENTREPRENEURSHIP FACTORS AMONG TEENAGERS: A QUALITATIVE STUDY	https://openalex.org/W2181660487	3	0	1	2015
+362	mansor (2011)	ENTREPRENEURIAL INTENTION: DOES MALAYSIAN SECONDARY SCHOOL PROVIDE THE PLATFORM?	https://openalex.org/W2184575293	3	1	3	2011
+363	sanyal (2015)	FACTORS AFFECTING ENTREPRENEURIAL ASPIRATIONS AMONG OMANI YOUTH : AN EMPIRICAL STUDY	https://openalex.org/W2185184770	3	0	1	2015
+364	clemensson (2010)	How to build an enabling environment for youth entrepreneurship and sustainable enterprises	https://openalex.org/W2185616851	3	2	4	2010
+365	smile (2014)	YOUTH ENTREPRENEURSHIP: INVESTIGATING OBSTACLES TO YOUTH ENTERPRISE CREATION AND DEVELOPMENT	https://openalex.org/W2187025203	3	4	17	2014
+366	greene (2005)	Evaluating youth entrepreneurship: The case of the Prince's Trust	https://openalex.org/W2189349600	3	4	15	2005
+367	resurreccion (2011)	Determinants of Entrepreneurial Attitudes and Intentions among High School Students in Iligan City	https://openalex.org/W2205573255	3	1	5	2011
+368	bashir (2015)	ENTREPRENEURSHIP BARRIERS TO STUDENT IN SOUTHERN PUNJAB UNIVERSITIES	https://openalex.org/W2209034587	3	0	1	2015
+369	muthini (2012)	Factors influencing success of youth enterprises in Ndaragwa Constituency, Nyandarua County, Kenya	https://openalex.org/W2230806347	3	0	0	2012
+370	maina (2012)	Factors influencing the development of youth entrepreneurship in Ongata Rongai township, Kajiado county, Kenya	https://openalex.org/W2240661844	3	0	3	2012
+371	kibuka (2011)	An examination of factors that influence entrepreneurial intention of high school students in Kenya	https://openalex.org/W2268011924	3	0	5	2011
+372	ahmed (2012)	The young entrepreneurs in Dhaka : reasons to be an entrepreneur & hurdles to overcome as an entrepreneur	https://openalex.org/W2274380400	3	0	2	2012
+373	ong (1998)	Disqualification of Directors: A Faulty Regime?	https://openalex.org/W2279958710	2	1	2	1998
+374	walters (2010)	Directors' Disqualification and Insolvency Restrictions	https://openalex.org/W2280372169	2	1	5	2010
+375	karadžić (2015)	OPPORTUNITIES AND CHALLENGES IN PROMOTING YOUTH ENTREPRENEURSHIP IN MONTENEGRO	https://openalex.org/W2290425846	3	1	9	2015
+376	ceptureanu (2015)	CHALLENGES AND BARRIERS OF EUROPEAN YOUNG ENTREPRENEURS	https://openalex.org/W2292839587	3	3	29	2015
+377	ceptureanu (2015)	ROMANIAN YOUNG ENTREPRENEURS FEATURES: AN EMPIRICAL SURVEY	https://openalex.org/W2292929586	3	2	4	2015
+378	steenekamp (2013)	An assessment of the impact of entrepreneurship training on the youth in South Africa	https://openalex.org/W2417627008	3	3	11	2013
+379	mureithi (2012)	Barriers and facilitators of youth entrepreneurship in the tourism sector in South Africa	https://openalex.org/W244125350	3	1	3	2012
+380	riso (2016)	Start-up support for young people in the EU: From implementation to evaluation	https://doi.org/10.2806/075998	3	2	5	2016
+381	sitoula (2015)	Challenges and prospects of youth entrepreneurship in Kathmandu	https://openalex.org/W2483110582	3	2	15	2015
+382	jakubczak (2015)	Youth Entrepreneurship Barriers and Role of Education in their Overcoming - Pilot Study	https://openalex.org/W2509386039	3	4	13	2015
+383	greene (2005)	Youth Entrepreneurship: Latent Entrepreneurship, Market Failure and Enterprise Support	https://openalex.org/W2549715797	3	0	8	2005
+384	ana (2016)	ENTREPRENEURIAL INTENTIONS OF TOURISM VOCATIONAL HIGH SCHOOL STUDENTS IN INDONESIA AND MALAYSIA	https://openalex.org/W2567856641	3	1	11	2016
+385	chiloane-tsoka (2015)	Factors influencing urban youth entrepreneurship development in sub-Saharan Africa	https://openalex.org/W2571940941	3	4	9	2015
+386	munyanyi (2013)	BOTTLE-NECKS TO SUCCESSFUL RURAL YOUTH ENTREPRENEURSHIP IN ZIMBABWE	https://openalex.org/W2593510670	3	1	3	2013
+387	sinshaw (2015)	Assessing the challenges of youth entrepreneurship in micro and small scale enterprises: The case of north Gondar zone, Ethiopia	https://openalex.org/W2600213358	3	2	4	2015
+388	mohamed (2017)	The Influence of Entrepreneurship Training and Financial Grant on Youth-Owned Enterprises in Somalia	https://openalex.org/W2611418612	3	1	7	2017
+389	sambo (2015)	Factors influencing the development of youth entrepreneurship: the case of Ethekwini municipality, South Africa	https://openalex.org/W2623765681	3	2	5	2015
+390	schøtt (2015)	Future Potential: A GEM Perspective on Youth Entrepreneurship	https://openalex.org/W2624565582	3	6	54	2015
+391	bignotti (2013)	Factors relating to entrepreneurial career choice of secondary school students	https://openalex.org/W267590154	3	0	3	2013
+392	barnes (2017)	Arrested Development: Rethinking the Contract Age of Majority for the Twenty-First Century Adolescent	https://openalex.org/W2731928418	1	1	3	2017
+393	toit (2018)	The Potential Contribution of the Intended High School Curriculum at Exit Level to the Entrepreneurship Education of South African Youth	https://openalex.org/W2801244266	3	2	53	2018
+394	madan (2013)	Perceived barriers to youth entrepreneurship - a study of Uttarakhand state, India	https://openalex.org/W2901838813	3	2	3	2013
+395	saptono (2018)	Do Learning Environment and Self-Efficacy Impact on Students Entrepreneurial Attitude?	https://openalex.org/W2912324222	3	1	7	2018
+396	olaniran (2018)	Barriers To Effective Youth Entrepreneurship And Vocational Education	https://openalex.org/W2917413422	3	2	13	2018
+397	sanjaya (2019)	Adolescents’ Entrepreneurial Orientation Based on Leisure Time	https://openalex.org/W2921845598	3	1	1	2019
+398	dzomonda (2019)	The Role of Institutions of Higher Learning towards Youth Entrepreneurship Development in South Africa	https://openalex.org/W2942140984	3	1	24	2019
+399	jongh (2017)	AN INVESTIGATION INTO THE FACTORS AFFECTING YOUNG PEOPLE’S ENTREPRENEURIAL INCLINATION: THE CASE OF SELECTED AREAS IN SOUTH AFRICA	https://openalex.org/W2945979452	3	2	9	2017
+400	vladimirovich (2019)	Regional Differentiation of Support of Youth Innovative Entrepreneurship System in the Union State	https://openalex.org/W2962870765	3	2	4	2019
+401	ile (2018)	BARRIERS TO EFFECTIVE YOUTH ENTREPRENEURSHIP DEVELOPMENT IN NASARAWA STATE	https://openalex.org/W2985769764	3	1	2	2018
+402	boateng (2014)	Barriers to Youthful Entrepreneurship in Rural Areas of Ghana	https://openalex.org/W2993576861	3	6	15	2014
+403	austen‐baker (2020)	Infants' Contracts:Law and Policy in the 18th and 19th Centuries	https://openalex.org/W3001720516	1	1	2	2020
+404	akintolu (2019)	Leadership and Entrepreneurship Education as a Strategy for Strengthening Youth Community Engagement in Nigeria: Lessons Learnt From Jumpstart Project	https://openalex.org/W3009081116	3	1	6	2019
+405	eurofound (2015)	Youth Entrepreneurship in Europe: Values, Attitudes, Policies	https://openalex.org/W307921391	3	1	35	2015
+406	melugbo (2020)	Entrepreneurial potential self-assessment in times of COVID-19: Assessing readiness, engagement, motivations and limitations among young adults in Nigeria	https://openalex.org/W3102055527	3	1	19	2020
+407	kvedaraitė (2014)	Reasons and obstacles to starting a business: Experience of students of Lithuanian higher education institutions	https://openalex.org/W313856034	3	1	14	2014
+408	cornell (2001)	Putting the Young in Business: Policy Challenges for Youth Entrepreneurship. Territorial Development. LEED Notebook No. 29.	https://openalex.org/W349636818	3	1	7	2001
+409	mithani (1998)	Mithani : directors' disqualification	https://openalex.org/W425479392	2	1	1	1998
+410	pihie (2009)	Choice of self employment intention among secondary school students	https://openalex.org/W428518516	3	1	17	2009
+411	schoof (2006)	Stimulating youth entrepreneurship : barriers and incentives to enterprise start-ups by young people	https://openalex.org/W5978360	3	32	248	2006
+412	riahi (2010)	Youth Entrepreneurship: Ottawa's Portfolio in Talent Development	https://openalex.org/W6235433	3	2	7	2010
+413	lafuente (2012)	The differentiated impact of role models and social fear of failure over the entrepreneurial activities of rural youths	https://openalex.org/W769157416	3	0	1	2012
+414	walters (2000)	Directors' Duties: The Impact of the Company Directors Disqualification Act	https://openalex.org/W941118514	2	1	4	2000
+415	toit (2018)	A Neglected Opportunity: Entrepreneurship Education in the Lower High School Curricula for Technology in South Africa and Botswana	https://doi.org/10.1080/18117295.2017.1420007	3	1	28	2018
+416	amende (2021)	Developing a Youth Entrepreneurship Program to Reach Latinx Youth	https://doi.org/10.54718/kxgt5268	3	0	0	2021
+417	birdthistle (2016)	Engendering entrepreneurial competencies in the youth of today: a teacher’s perspective	https://doi.org/10.1108/et-02-2016-0031	3	2	30	2016
+418	johansen (2014)	Entrepreneurship Projects and Pupils' Academic Performance: A Study of Norwegian Secondary Schools	https://doi.org/10.2304/eerj.2014.13.2.155	3	2	17	2014
+419	riess (2024)	Exploring Entrepreneurial Intention and Subjective Beliefs: A Comparative Analysis of General Education Schools and Commercial Schools	https://doi.org/10.61403/2164-2885.1149	3	0	0	2024
+420	ürek (2025)	Fostering secondary school students’ attitudes toward sustainable development and their individual entrepreneurship orientations through a STEM + activity	https://doi.org/10.1007/s44217-025-00755-5	3	0	0	2025
+421	pervun (2022)	From athletes to entrepreneurs: Participation in youth sports as a precursor to future business endeavors	https://doi.org/10.1080/00472778.2022.2073359	3	1	7	2022
+422	mbuya (2016)	Future entrepreneurs: does the field of study matter? A comparison of students in a South African urban environment	https://doi.org/10.21511/ppm.14(2-1).2016.12	3	0	15	2016
+423	wahjusaputri (2022)	Implementation of e-commerce in improving the competitiveness of vocational secondary education student entrepreneurship products	https://doi.org/10.11591/edulearn.v16i3.20501	3	0	6	2022
+424	marín (2026)	Unpacking entrepreneurial intention in adolescents: the mediating role of future vision and risk perception	https://doi.org/10.1108/et-07-2025-0543	3	0	0	2026
+425	walstad (1999)	Seeds of Success : Entrepreneurship and Youth	https://openalex.org/W586776237	3	4	19	1999
+426	chambers (2002)	Youth business international : bridging the gap between unemployment and self-employment for disadvantaged youth	https://openalex.org/W1558243097	3	2	10	2002
+427	white (2001)	Enterprise-based youth employment policies, strategies and programmes : initiatives for the development of enterprise action and strategies	https://openalex.org/W2157867323	3	4	16	2001
+428	kristiansen (2004)	ENTREPRENEURIAL INTENTION AMONG INDONESIAN AND NORWEGIAN STUDENTS	https://doi.org/10.1142/s021849580400004x	3	16	506	2004
+429	okolie (2010)	Entrepreneurship Development through Technical and Vocational Education for Self-employment and Youth Empowerment in Africa	https://doi.org/10.18848/1447-9494/cgp/v17i05/47019	3	1	10	2010
+430	anon. (2011)	Passing on Privilege: Resources Provided by Self-employed Parents to Their Self-employed Children	https://doi.org/10.4337/9781035305759.00031	3	6	182	2011
+431	mseleku (2023)	Youth Entrepreneurship as a Strategy for Household Poverty Reduction in Umjindi Trust Village, Mpumalanga Province	https://doi.org/10.25159/2663-6549/13498	3	0	0	2023
+432	fotoyi (2025)	THE EFFECTS OF SOUTH AFRICA’S MACROECONOMIC FACTORS ON YOUTH ENTREPRENEURSHIP	https://doi.org/10.63356/ace.2025.002	3	0	2	2025
+433	moos (2022)	Comparing the effectiveness of public and private support to youth entrepreneurs: A qualitative inquiry	https://doi.org/10.35683/jcm21104.170	3	2	4	2022
+434	tshishonga (2022)	Uprooting Poverty and Unemployment Through Youth Entrepreneurship Leadership and Skills Development	https://doi.org/10.4018/978-1-7998-9581-7.ch004	3	0	3	2022
+435	ngcongo (2022)	Analysis of Challenges and Opportunities Faced by Youth Entrepreneurs During COVID-19 in South Africa	https://doi.org/10.4018/978-1-6684-4322-4.ch011	3	0	1	2022
+436	igbinakhase (2020)	Youth Entrepreneurship in the Circular Economy	https://doi.org/10.4018/978-1-7998-5116-5.ch018	3	1	4	2020
+437	mahamotse (2024)	The impact of entrepreneurial alertness on the performance of youth-owned enterprises	https://doi.org/10.4102/sajesbm.v16i1.765	3	1	4	2024
+438	henning (2022)	Youth participation in agriculture, accounting for entrepreneurial dimensions	https://doi.org/10.4102/sajesbm.v14i1.461	3	1	20	2022
+439	schneck (2025)	Interference in children’s affairs: An exploratory study about the role of self-employed parents	https://doi.org/10.1016/j.jbvi.2025.e00570	3	0	0	2025
+440	suárez‐álvarez (2014)	Screening Enterprising Personality in Youth: An Empirical Model	https://doi.org/10.1017/sjp.2014.61	3	2	19	2014
+441	zampetakis (2011)	Creativity and Entrepreneurial Intention in Young People	https://doi.org/10.5367/ijei.2011.0037	3	3	152	2011
+442	lechner (2018)	What drives future business leaders? How work values and gender shape young adults' entrepreneurial and leadership aspirations	https://doi.org/10.1016/j.jvb.2018.03.004	3	0	94	2018
+443	westhuizen (2023)	Introduction to Youth Entrepreneurship	https://doi.org/10.1007/978-3-031-44339-8_1	3	0	2	2023
+444	liu (2023)	Performance Model of Youth Entrepreneurship Platform in the Context of Common Wealth Returning to Hometown	https://doi.org/10.3390/su151914616	3	1	2	2023
+445	isasi-sánchez (2023)	Fostering Youth Entrepreneurship in STEM Students for Industry 4.0 Era	https://doi.org/10.1007/978-3-031-29382-5_4	3	0	1	2023
+446	hadley (2023)	What young entrepreneurs learned in secondary school…and didn’t: a study summary	https://doi.org/10.1007/s41959-023-00106-1	3	0	3	2023
+447	bouichou (2024)	Rural Youth Entrepreneurship: Digital Learning Opportunities and Implementation Challenges	https://doi.org/10.5772/intechopen.1005778	3	0	3	2024
+448	pilková (2017)	Investigating Youth Entrepreneurial intentions' Drivers in Visegrad Countries	https://doi.org/10.11118/actaun201765062055	3	0	5	2017
+449	sarhan (2022)	Inclusive Entrepreneurial Intention Among the Youth in Malaysia, Does Gender Matter?	https://doi.org/10.2991/978-94-6463-080-0_21	3	0	0	2022
+450	kuzman (2023)	Youth entrepreneurship: Possibilities of European Union supportive programmes	https://doi.org/10.5937/skolbiz1-47550	3	0	2	2023
+451	wilde (2018)	Youth enterprise: the role of gender and life stage in motivations, aspirations and measures of success	https://doi.org/10.1080/13639080.2017.1421311	3	1	14	2018
+452	jones (2013)	Entrepreneurship education: an evaluation of the Young Enterprise Wales initiative	https://doi.org/10.1108/et-04-2013-0052	3	0	53	2013
+453	zeffane (2013)	NEED FOR ACHIEVEMENT, PERSONALITY AND ENTREPRENEURIAL POTENTIAL: A STUDY OF YOUNG ADULTS IN THE UNITED ARAB EMIRATES	https://doi.org/10.1142/s0218495813500040	3	1	71	2013
+454	choi (2014)	A Comparative Analysis on the Characteristics Between Different Types of Gifted Students in Invention and Innovation: Focusing on the Characteristics of the Adolescent Entrepreneurial Gifted	https://doi.org/10.9722/jgte.2014.24.1.81	3	0	0	2014
+455	rueda‐armengot (2013)	Profile of Young Entrepreneurs in Spain in Times of Recession	https://doi.org/10.1007/978-3-319-02384-7_16	3	0	0	2013
+456	patuelli (2020)	Entrepreneurial Intention among High-School Students: The Importance of Parents, Peers and Neighbours	https://doi.org/10.2139/ssrn.3573422	3	1	1	2020
+457	athayde (2009)	Measuring Enterprise Potential in Young People	https://doi.org/10.1111/j.1540-6520.2009.00300.x	3	23	403	2009
+458	čačija (2023)	The Role of Demographic Factors and Prior Entrepreneurial Exposure in Shaping the Entrepreneurial Intentions of Young Adults: The Case of Croatia	https://doi.org/10.3390/su15065151	3	0	4	2023
+459	zeffane (2012)	Gender and Youth Entrepreneurial Potential: Evidence from the United Arab Emirates	https://doi.org/10.5539/ijbm.v8n1p60	3	2	39	2012
+460	soleimanof (2021)	Following the footsteps that inspire: Parental passion, family communication, and children’s entrepreneurial attitudes	https://doi.org/10.1016/j.jbusres.2021.02.018	3	1	38	2021
+461	llamazares (2019)	The Socio-educational, Psychological and Family-Related Antecedents of Entrepreneurial Intentions among Spanish Youth	https://doi.org/10.3390/su11051252	3	7	49	2019
+462	luis-rico (2020)	The Association of Parental Interest in Entrepreneurship to the Entrepreneurial Interest of Spanish Youth	https://doi.org/10.20944/preprints202002.0133.v1	3	1	6	2020
+463	silva (2012)	Entrepreneurial Potential in the Younger Generation	https://doi.org/10.1080/08276331.2012.10593561	3	0	7	2012
+464	mukembo (2024)	Entrepreneurial competencies in high school agricultural education: Assessing educator perceptions, gender differences, and professional development needs	https://doi.org/10.37433/aad.v5i4.557	3	0	1	2024
+465	varamäki (2015)	The development of entrepreneurial potential among higher education students	https://doi.org/10.1108/jsbed-02-2012-0027	3	1	91	2015
+466	kang (2020)	An Examination of Entrepreneurial, Professional and Leadership (EPL) Career Aspirations Among Adolescent Youth	https://doi.org/10.1007/978-981-15-3121-7_13	3	0	3	2020
+467	bahmani (2020)	Comparative study of entrepreneurship education in elementary school in selected countries and presenting a model for Iran	https://doi.org/10.32598/jmsp.7.4.6	3	0	0	2020
+468	rasheed (2004)	DEVELOPING ENTREPRENEURIAL CHARACTERISTICS IN MINORITY YOUTH: THE EFFECTS OF EDUCATION AND ENTERPRISE EXPERIENCE	https://doi.org/10.1016/s1074-7877(03)04012-1	3	2	37	2004
+469	paço (2011)	Behaviours and entrepreneurial intention: Empirical findings about secondary students	https://doi.org/10.1007/s10843-010-0071-9	3	15	303	2011
+470	almobaireek (2013)	ENTREPRENEURIAL MOTIVATIONS AMONG FEMALE UNIVERSITY YOUTH IN SAUDI ARABIA	https://doi.org/10.3846/16111699.2012.711364	3	1	62	2013
+471	iizuka (2022)	College environment and entrepreneurial intention in high school	https://doi.org/10.1108/rege-10-2021-0189	3	1	20	2022
+472	sethi (2025)	A Literature Review on the Development of Entrepreneurial Management Skills among Adolescent Youth	https://doi.org/10.55041/ijsrem51384	3	0	0	2025
+473	pontes (2024)	Does Financial Knowledge Boost Entrepreneurial Intention Among Adolescents? The Moderate Effect of Indulgence	https://doi.org/10.2139/ssrn.4853642	3	0	0	2024
+474	bublitz (2020)	Rise Up: Understanding Youth Social Entrepreneurs and Their Ecosystems	https://doi.org/10.1177/0743915620937702	3	1	71	2020
+475	hassi (2016)	Effectiveness of early entrepreneurship education at the primary school level: Evidence from a field research in Morocco	https://doi.org/10.1177/2047173416650448	3	3	69	2016
+476	floris (2023)	Budding entrepreneurs. The role of University in spreading early entrepreneurial mindset in school kids	https://doi.org/10.3934/nar.2023006	3	0	7	2023
+477	zickafoose (2023)	Developing Youth Agricultural Entrepreneurship in Latin America and the Caribbean	https://doi.org/10.3390/su152215983	3	0	8	2023
+478	rajput (2025)	“A Comparative Study of The Male and Female Undergraduate Students on Their Attitude Towards Entrepreneurship in Relation to Their Academic- Achievements.”	https://doi.org/10.51583/ijltemas.2025.1410000104	3	0	0	2025
+479	isaga (2025)	Determinants of Tanzanian Youth Entrepreneurs' Financial Inclusion: Empirical Evidence from a Baseline Survey in Selected Regions in Tanzania	https://doi.org/10.51867/ajernet.6.1.11	3	0	3	2025
+480	ashtankar (2019)	A Critical Analysis of Entrepreneurial Career Choice of the Youths in Mumbai City	https://doi.org/10.2139/ssrn.3362286	3	0	0	2019
+481	nguyen (2019)	Factors affecting entrepreneurial intentions among youths in Vietnam	https://doi.org/10.1016/j.childyouth.2019.01.039	3	6	174	2019
+482	javier (2025)	Entrepreneurial Intention and Attitude of Home Economics Students in Tacurong National High School	https://doi.org/10.70838/pemj.401007	3	0	0	2025
+483	kafle (2024)	Motivating Factors to the Success of Youth Enterprise Startups: A Study of Nepali Enterprises	https://doi.org/10.3126/jrj.v3i1.68386	3	0	3	2024
+484	khetarpal (2025)	The role of entrepreneurship education, entrepreneurial motivation, and entrepreneurial readiness in mapping entrepreneurial intention of youth	https://doi.org/10.1016/j.ijme.2025.101272	3	0	10	2025
+485	li (2021)	Effect of the Social and Cultural Control on Young Eastern Ethnic Minority Groups’ Online-Startup Motivation	https://doi.org/10.1515/erj-2021-0262	3	0	22	2021
+486	tentama (2024)	Entrepreneurial Readiness of Young Muslim Entrepreneurs: The Role of Need for Achievement, Family Support, and Entrepreneurial Interest	https://doi.org/10.25217/0020247473200	3	0	0	2024
+487	garcía‐rodríguez (2022)	Parents' support for children's entrepreneurial behavior: incentivizing the next generation of entrepreneurs	https://doi.org/10.1108/ijebr-05-2022-0452	3	0	22	2022
+488	chapus (2021)	You're all I need to get by? Analyzing young entrepreneurs’ networks in Morocco from a “quantified narratives” method	https://doi.org/10.1016/j.socnet.2021.03.004	3	0	10	2021

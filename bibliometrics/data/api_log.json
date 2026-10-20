@@ -1,0 +1,2767 @@
+[
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/doi:10.1007/978-1-137-54507-7?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-13 22:50:07"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/doi:10.1016/0190-7409(96)00004-7?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_acce",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-13 22:50:07"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/doi:10.56442/ieti.v1i3.331?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cit",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-13 22:50:07"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/mag:1493273066?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-13 22:50:07"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2023010059?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1979121481?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2030481403?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2341544654?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2031405611?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1991357457?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2004665382?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2017648537?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2046885885?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2073562342?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2074351357?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2075919136?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2077475188?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2078066075?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2094194165?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2100826189?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2143426821?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2158054977?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2164493661?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2402198961?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4244513715?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W6997556214?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1979048276?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1979147731?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2088694363?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2132095123?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2159806769?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2166185024?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3154795072?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W112949365?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1617412188?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1696332158?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1751954395?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1841224723?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1976064005?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1990958803?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2049073047?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2057049584?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2093472320?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2098037970?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2758868628?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2888363952?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4251530311?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W6637685206?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W35043312?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W138047100?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W200481086?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W791532641?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1497962985?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1572668910?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2024361315?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2030022628?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2050226767?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2053749740?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2066079422?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2122912498?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2130760166?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2153403719?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2159401492?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2159528852?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2162221567?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2163380127?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2257509791?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2329925658?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2441884466?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2810846506?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W6657726905?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W6682510031?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W6982394732?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1498341115?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2005528162?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2090299671?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4250523012?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4301339660?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W949962457?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1537543935?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1545237379?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1795105315?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1964234509?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1964433402?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1996401059?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2003481967?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2009919056?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2039676227?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2034896339?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2047200239?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2062147419?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2086870186?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2079026717?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2104815727?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2106213165?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2111088749?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2139564895?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2140632413?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2141056369?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2468421991?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2605916971?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2607064026?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3121896283?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4237766741?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4242640869?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2007299579?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2061770927?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2124136127?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2159858238?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2423803991?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2592609774?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2808064604?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1575649363?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W143824906?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W270960788?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W566857790?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W593830800?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W593861970?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1591741498?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1604076496?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1619904243?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1969293212?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1973545526?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1982293069?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1982894814?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1985182137?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1994414630?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1994515961?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1995835640?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2005754831?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2006723616?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2009861785?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2015012376?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2018330327?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2022307083?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2023221471?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2028378463?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2035949073?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2038260027?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2044250366?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2046604854?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2054318640?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2101684743?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2105391913?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2105717202?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2114958506?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2115922740?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2120038714?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2136709710?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2138817364?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2151281803?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2153115565?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2153174915?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2157282578?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2162052483?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2278692389?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2319178948?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2319859179?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2321152901?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2322714820?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2323928716?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2796230362?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2800868943?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2917388694?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2954178592?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2969725936?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3001289178?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3011728238?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3021314177?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4249279174?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W6636510146?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W6695135631?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W6754965359?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W6765116857?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W6813258390?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W9032333?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,counts",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1486100616?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1589001732?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1981221630?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1989953901?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1994504432?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1999631199?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2009248339?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2011453936?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2038702827?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2064636342?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2080296241?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2088288120?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2109469951?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2118802626?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2128508989?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2133587644?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2140905468?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2145132055?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2149188171?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2168755670?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2187841782?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2294039257?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3023070006?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3121213779?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3122700310?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3123373794?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3125960988?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W6684262664?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1508121583?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2121034459?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2912558184?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":7",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3124284331?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1911800885?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W161766526?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1973701182?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2012091823?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2020437811?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2021827755?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2057072292?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2070333989?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2073120269?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2098496600?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2103457515?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2116134757?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2123184820?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2152155693?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2152792807?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2157701713?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2159165123?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2531445942?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2578361969?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2748452207?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2806440377?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3121502504?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4236676302?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4377077022?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W6682049533?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W6977959942?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W160145972?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W160945218?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W165151746?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W175240153?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W211379875?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W593513158?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W632923460?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W650160334?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,coun",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1508982298?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1592479473?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1595575180?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1967572699?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W1973788472?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2021226409?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2042174250?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2072166214?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2159477114?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2187687304?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2240271874?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2783040509?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2487602226?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W2708204261?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3123006650?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4235967054?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4200330010?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4205564908?select=id,doi,title,display_name,publication_year,publication_date,language,type,authorships,primary_location,best_oa_location,open_access,cited_by_count,cou",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 03:56:55"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3029046631?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3040539093?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3036624657?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3043480677?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3044348100?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3046942362?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3048506540?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W307442239?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3080615731?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3088786875?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3094243036?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3094793347?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3107275893?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3112164615?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3113094305?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3121205238?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3121282531?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3121439200?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3121897833?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3121919845?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3121928548?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3121969712?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3122238729?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3122341159?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3122345965?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3122508317?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3122740193?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3122843079?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3122877168?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3122916549?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3122948292?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3122973912?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3123075676?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3123273199?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3123323948?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3123373794?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3123468997?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3123746573?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3124058086?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3124759049?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3124815100?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3124836364?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3124888832?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3124975385?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3125029691?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3125161046?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3125344093?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3125370866?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3125505924?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3125757792?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3125847757?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3125906709?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3126006520?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3126041935?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3128415798?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3128873726?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3131203450?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3135837147?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3136817884?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3137875885?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3141532068?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3147273035?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3148848855?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W315249112?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3154233341?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3155621169?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3157954069?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3160218720?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3160546465?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3163574624?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3169946567?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3183504958?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3184906577?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3185687210?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3192855505?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3198136917?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3207440052?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W320929745?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3211449972?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3213664058?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3215667837?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W3216311241?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W41285543?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4200378277?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4200564798?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4205770005?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4206128723?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4206535693?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4206731644?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4206965361?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4210698642?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4211069709?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4211170391?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4213439731?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4214631862?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4220976032?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4224074726?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4224217181?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.openalex.org",
+  "url": "https://api.openalex.org/works/W4224308724?select=id,doi,display_name,publication_year,type,authorships,primary_location,biblio,cited_by_count",
+  "status": 429,
+  "note": "failed after retries: {\"error\":\"Rate limit exceeded\",\"message\":\"Rate limit exceeded: 10 requests per second. Please slow down.\",\"retryAfter\":0",
+  "ts": "2026-10-17 04:07:57"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22infancy%20doctrine%22&limit=50",
+  "status": 500,
+  "note": "failed after retries: {\"message\":\"The HTTP status code \\u00220\\u0022 is not valid.\"}",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minors%27%20contracts%22&limit=50",
+  "status": 500,
+  "note": "failed after retries: {\"message\":\"The HTTP status code \\u00220\\u0022 is not valid.\"}",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22contracts%20with%20minors%22&limit=50",
+  "status": 500,
+  "note": "failed after retries: {\"message\":\"The HTTP status code \\u00220\\u0022 is not valid.\"}",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22Mohori%20Bibee%22&limit=50",
+  "status": 500,
+  "note": "failed after retries: {\"message\":\"The HTTP status code \\u00220\\u0022 is not valid.\"}",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22Minors%27%20Contracts%20Act%22&limit=50",
+  "status": 500,
+  "note": "failed after retries: {\"message\":\"The HTTP status code \\u00220\\u0022 is not valid.\"}",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minor%22%20%22Indian%20Contract%20Act%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22disaffirmance%22%20minor%20contract&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minor%22%20partnership%20%22benefits%20of%20partnership%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minor%22%20director%20%22Companies%20Act%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minimum%20age%22%20company%20director&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minor%22%20shareholder%20company%20law&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22child%20entrepreneurs%22%20law&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minor%20entrepreneurs%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22young%20entrepreneurs%22%20%22legal%20capacity%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22infant%22%20%22member%20of%20a%20company%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minors%22%20%22limited%20liability%20company%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22kidfluencers%22%20contract&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22child%20influencers%22%20contract%20law&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 05:42:46"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22infancy%20doctrine%22&limit=50",
+  "status": 500,
+  "note": "failed after retries: {\"message\":\"The HTTP status code \\u00220\\u0022 is not valid.\"}",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minors%27%20contracts%22&limit=50",
+  "status": 500,
+  "note": "failed after retries: {\"message\":\"The HTTP status code \\u00220\\u0022 is not valid.\"}",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22contracts%20with%20minors%22&limit=50",
+  "status": 500,
+  "note": "failed after retries: {\"message\":\"The HTTP status code \\u00220\\u0022 is not valid.\"}",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22Mohori%20Bibee%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22Minors%27%20Contracts%20Act%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minor%22%20%22Indian%20Contract%20Act%22&limit=50",
+  "status": 500,
+  "note": "failed after retries: {\"message\":\"The HTTP status code \\u00220\\u0022 is not valid.\"}",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22disaffirmance%22%20minor%20contract&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minor%22%20partnership%20%22benefits%20of%20partnership%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minor%22%20director%20%22Companies%20Act%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minimum%20age%22%20company%20director&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minor%22%20shareholder%20company%20law&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22child%20entrepreneurs%22%20law&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minor%20entrepreneurs%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22young%20entrepreneurs%22%20%22legal%20capacity%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22infant%22%20%22member%20of%20a%20company%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22minors%22%20%22limited%20liability%20company%22&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22kidfluencers%22%20contract&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ },
+ {
+  "host": "api.core.ac.uk",
+  "url": "https://api.core.ac.uk/v3/search/works/?q=%22child%20influencers%22%20contract%20law&limit=50",
+  "status": 429,
+  "note": "failed after retries: ",
+  "ts": "2026-10-17 07:01:08"
+ }
+]

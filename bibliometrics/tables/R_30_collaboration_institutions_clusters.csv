@@ -1,0 +1,32 @@
+"vertex","cluster","btw_centrality","clos_centrality","pagerank_centrality"
+"state university of malang",1,0,1,0.032258064516129
+"state university of jakarta",1,0,1,0.032258064516129
+"university of johannesburg",2,2,0.333333333333333,0.0473207570496904
+"north-west university",2,0,0.25,0.0317326217533304
+"university of fort hare",2,0,0.2,0.018246257508165
+"university of zululand",2,0,0.25,0.0317326217533304
+"international institute of tropical agriculture",3,0,1,0.032258064516129
+"universite d'abomey-calavi",3,0,1,0.032258064516129
+"queensland university of technology",4,0,0.0714285714285714,0.00944373504222722
+"university of pretoria",4,0,0.0666666666666667,0.0101814156047307
+"university of jyvaskyla",4,6.8,0.125,0.0541767689977396
+"university of oulu",4,6,0.111111111111111,0.0314276819253611
+"university of turku",4,0.4,0.111111111111111,0.0418188035109419
+"labour institute for economic research",4,0.4,0.111111111111111,0.0418188035109419
+"university of bamberg",4,0.4,0.111111111111111,0.0418188035109419
+"university of helsinki",4,0,0.0909090909090909,0.0273785040261478
+"universitas ahmad dahlan",5,0,1,0.032258064516129
+"yogyakarta state university",5,0,1,0.032258064516129
+"university of kwazulu-natal",6,0,1,0.032258064516129
+"durban university of technology",6,0,1,0.032258064516129
+"stanford university",7,0,0.333333333333333,0.032258064516129
+"tufts university",7,0,0.333333333333333,0.032258064516129
+"ball state university",7,0,0.333333333333333,0.032258064516129
+"oregon state university",7,0,0.333333333333333,0.032258064516129
+"kedge business school",8,0,1,0.032258064516129
+"universidad de burgos",8,0,1,0.032258064516129
+"universidad de sevilla",9,0,1,0.032258064516129
+"universidad de granada",9,0,1,0.032258064516129
+"marquette university",10,0,0.5,0.032258064516129
+"university of illinois chicago",10,0,0.5,0.032258064516129
+"aalto university",10,0,0.5,0.032258064516129

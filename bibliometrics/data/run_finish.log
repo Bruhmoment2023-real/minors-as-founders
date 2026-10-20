@@ -1,0 +1,70 @@
+
+[06:27:23] R bibliometrix
+[keywords] ok
+[trend_topics] ok
+[cooccurrence_network] ok
+[thematic_map] ok
+[thematic_evolution] ok
+[cocitation_references] ok
+[cocitation_sources] ok
+[bibliographic_coupling] ok
+[historiograph] FAILED: arguments imply differing number of rows: 0, 1
+[collaboration_authors] ok
+[collaboration_institutions] ok
+[collaboration_countries] ok
+[three_field_plot] ok
+There were 50 or more warnings (use warnings() to see the first 50)
+R analysis finished: 26 ok of 27 
+[06:50:00] python figures
+prisma ok
+year_sub ok
+timeline ok
+db ok
+geography ok
+citation_network ok
+main_path ok
+cocitation ok
+vosviewer: VOSviewer command line produced layouts for: keyword_cooccurrence, coauthorship_authors. py_cocitation_references: VOSviewer command line timed out. coauthorship_authors: VOSviewer command line timed out. 
+captions.md written with 45 entries
+[06:56:07] topic chart
+D:\Research-Publishing\_tools\biblio-kit\topic_chart_06.py:20: UserWarning: This pattern is interpreted as a regular expression, and has match groups. To actually get the groups, use str.extract.
+  rows.append(dict(sublit=cfg["sublits"].get(s, {}).get("label", s), jurisdiction=j, records=int(g.txt.str.contains(pat, regex=True, case=False).sum()), of=len(g)))
+[06:56:11] law supplement
+"Minors' Contracts Act" 0 0
+"minor" "Indian Contract Act" 4 0
+"disaffirmance" minor contract 0 0
+"minor" partnership "benefits of partnership" 0 0
+"minor" director "Companies Act" 1 0
+"minimum age" company director 2 0
+"minor" shareholder company law 16 0
+"child entrepreneurs" law 0 0
+"minor entrepreneurs" 5 0
+"young entrepreneurs" "legal capacity" 0 0
+"infant" "member of a company" 0 0
+"minors" "limited liability company" 55 0
+"kidfluencers" contract 0 0
+"child influencers" contract law 1 0
+law supplement: 245 raw records, 38 pass the rules, 16 not already in corpus
+[07:01:09] evidence select
+62 evidence rows; 16 prior-work papers in corpus; quotas {'A_minors_contractual_capacity': 8, 'B_youth_entrepreneurship': 29, 'C_company_partnership_eligibility': 10, 'seed': 2}
+[07:01:11] pdf download
+FAILED: not a PDF (HTML landing page) at doi.org | Entrepreneurship education: A strength-based approach to substance use
+FAILED: not a PDF (HTML landing page) at doi.org | Evaluation of an Entrepreneurship Education Intervention for American 
+FAILED: HTTP 403 at www.mdpi.com | Entrepreneurial, Economic, and Social Well-Being Outcomes from an RCT 
+FAILED: HTTP 403 at papers.ssrn.com | Occupational dreams, choices and aspirations: adolescents' entrepreneu
+FAILED: ConnectionError at eprints.qut.edu.au | Nascent entrepreneurship and the developing individual: Early entrepre
+FAILED: HTTP 403 at papers.ssrn.com | Technological Resources and New Firm Growth: A Comparison of Start-up 
+FAILED: not a PDF (HTML landing page) at doi.org | Promoting entrepreneurial intentions from adolescence: The influence o
+FAILED: ConnectTimeout at naerjournal.ua.es | Entrepreneurship and Adolescents
+FAILED: HTTP 403 at ejmeb.com | Preferential Support for Young Entrepreneurs in Uzbekistan: State Poli
+FAILED: not a PDF (HTML landing page) at ijsrem.com | A Literature Review on the Development of Entrepreneurial Management S
+FAILED: not a PDF (HTML landing page) at doi.org | Impact of family capital & social capital on youth entrepreneurship GÇô 
+FAILED: not a PDF (HTML landing page) at doi.org | Three explanations for the development of adolescentsGÇÖ entrepreneurial
+FAILED: not a PDF (HTML landing page) at doi.org | Comparative study of entrepreneurship education in elementary school i
+downloaded | Promoting entrepreneurial potential in adolescents: A pilot study base
+PDFs: 20/60 core papers; folder size 13.2 MB
+[07:03:16] evidence table
+evidence-table.csv: 62 rows
+[07:03:18] docs
+docs written: D:\Research-Publishing\06-minors-as-founders\bibliometrics\search-protocol.md D:\Research-Publishing\06-minors-as-founders\bibliometrics\README.md
+[07:03:21] FINISHED

@@ -1,0 +1,7 @@
+﻿=== 06-minors-as-founders :: enrich
+enrich: hits=9404 unique=7352 pass title pre-screen=1535
+  openalex 400/1535 (63s)
+  openalex 800/1535 (122s)
+  openalex 1200/1535 (191s)
+enrich: {"date": "2026-10-13", "records_identified": 9404, "by_db": {"crossref": 4500, "s2": 4463, "eric": 421, "seed": 20}, "duplicates_removed_identifiers": 2052, "unique_records": 7352, "removed_title_prescreen": 5817, "sent_to_openalex": 1535, "duplicates_removed_openalex": 13, "excluded_reasons": {"offtopic_fails_inclusion_rule": 413, "no_openalex_record (no DOI / not indexed)": 109, "type_excluded": 57, "language_not_english": 15}, "included_after_search_screen": 928}
+=== enrich done in 333s

@@ -1,0 +1,42 @@
+﻿qid,db,sublit,query,total_in_db,retrieved,status,date
+crossref_A_minors_contractual_capacity_01,crossref,A_minors_contractual_capacity,infancy doctrine contracts minors,113849.0,250,ok,2026-10-13
+crossref_A_minors_contractual_capacity_02,crossref,A_minors_contractual_capacity,minors contractual capacity law,1705453.0,250,ok,2026-10-13
+crossref_A_minors_contractual_capacity_03,crossref,A_minors_contractual_capacity,contracts with minors voidable disaffirmance necessaries,54726.0,250,ok,2026-10-13
+crossref_A_minors_contractual_capacity_04,crossref,A_minors_contractual_capacity,minor's agreement Indian Contract Act Mohori Bibee,1050111.0,250,ok,2026-10-13
+crossref_A_minors_contractual_capacity_05,crossref,A_minors_contractual_capacity,Minors' Contracts Act 1987 capacity,1559064.0,250,ok,2026-10-13
+crossref_A_minors_contractual_capacity_06,crossref,A_minors_contractual_capacity,children online contracts capacity law,3773433.0,250,ok,2026-10-13
+crossref_A_minors_contractual_capacity_07,crossref,A_minors_contractual_capacity,age of majority contract law reform,2407794.0,250,ok,2026-10-13
+s2_A_minors_contractual_capacity_01,s2,A_minors_contractual_capacity,"""infancy doctrine"" | ""infancy law doctrine"" | ""minors' contracts"" | ""contracts with minors"" | ""contractual capacity of minors"" | ""minor's contract"" | ""minors contracts""",107.0,107,ok,2026-10-13
+s2_A_minors_contractual_capacity_02,s2,A_minors_contractual_capacity,"(minor | minors | infants | children | adolescents) + (""capacity to contract"" | ""contractual capacity"" | disaffirm | disaffirmance | ""voidable contract"" | ""voidable contracts"" | necessaries)",183.0,183,ok,2026-10-13
+s2_A_minors_contractual_capacity_03,s2,A_minors_contractual_capacity,"(minors | children | teenagers) + contracts + (online | ""e-commerce"" | internet | ""social media"" | gaming | influencers) + (law | legal | capacity)",562.0,562,ok,2026-10-13
+s2_A_minors_contractual_capacity_04,s2,A_minors_contractual_capacity,"""age of majority"" + (contract | contracts | capacity | law)",451.0,451,ok,2026-10-13
+s2_A_minors_contractual_capacity_05,s2,A_minors_contractual_capacity,"""Mohori Bibee"" | (""Indian Contract Act"" + (minor | minors))",5.0,5,ok,2026-10-13
+crossref_C_company_partnership_eligibility_01,crossref,C_company_partnership_eligibility,minor as partner Partnership Act admitted to benefits of partnership,523129.0,250,ok,2026-10-13
+crossref_C_company_partnership_eligibility_02,crossref,C_company_partnership_eligibility,minimum age company director Companies Act,1296184.0,250,ok,2026-10-13
+crossref_C_company_partnership_eligibility_03,crossref,C_company_partnership_eligibility,minors as shareholders members of a company law,1648199.0,250,ok,2026-10-13
+crossref_C_company_partnership_eligibility_04,crossref,C_company_partnership_eligibility,eligibility qualifications of company directors law,1579242.0,250,ok,2026-10-13
+crossref_C_company_partnership_eligibility_05,crossref,C_company_partnership_eligibility,limited liability partnership partners capacity minors,558406.0,250,ok,2026-10-13
+crossref_C_company_partnership_eligibility_06,crossref,C_company_partnership_eligibility,disqualification of company directors law,1566119.0,250,ok,2026-10-13
+s2_C_company_partnership_eligibility_01,s2,C_company_partnership_eligibility,"(minor | minors | ""minimum age"" | ""under 18"") + (director | directors | shareholder | shareholders) + (company | ""Companies Act"" | corporate) + law",137.0,137,ok,2026-10-13
+s2_C_company_partnership_eligibility_02,s2,C_company_partnership_eligibility,"(minor | minors) + (partnership | ""Partnership Act"" | LLP | ""limited liability partnership"") + (law | legal | capacity)",373.0,373,ok,2026-10-13
+s2_C_company_partnership_eligibility_03,s2,C_company_partnership_eligibility,"""director eligibility"" | ""directors' qualifications"" | ""qualification of directors"" | ""disqualification of directors"" | ""minimum age for directors"" | ""directors disqualification""",245.0,245,ok,2026-10-13
+crossref_B_youth_entrepreneurship_01,crossref,B_youth_entrepreneurship,youth entrepreneurship,407651.0,250,ok,2026-10-13
+crossref_B_youth_entrepreneurship_02,crossref,B_youth_entrepreneurship,adolescent entrepreneurship teenage entrepreneurs,469193.0,250,ok,2026-10-13
+crossref_B_youth_entrepreneurship_03,crossref,B_youth_entrepreneurship,young entrepreneurs legal barriers age business registration,3306856.0,250,ok,2026-10-13
+crossref_B_youth_entrepreneurship_04,crossref,B_youth_entrepreneurship,entrepreneurship education secondary school students entrepreneurial intention,5153986.0,250,ok,2026-10-13
+crossref_B_youth_entrepreneurship_05,crossref,B_youth_entrepreneurship,minors as entrepreneurs legal capacity business,1919547.0,250,ok,2026-10-13
+s2_B_youth_entrepreneurship_01,s2,B_youth_entrepreneurship,"""youth entrepreneurship"" | ""young entrepreneurs"" | ""adolescent entrepreneurship"" | ""teen entrepreneurs"" | ""teenage entrepreneurs"" | ""child entrepreneurs"" | kidpreneurs | ""minor entrepreneurs""",4410.0,800,ok,2026-10-13
+s2_B_youth_entrepreneurship_02,s2,B_youth_entrepreneurship,"(adolescents | adolescence | teenagers | ""high school students"" | ""secondary school students"") + (entrepreneurship | entrepreneurial | ""entrepreneurial intention"" | ""business ownership"")",2514.0,800,ok,2026-10-13
+s2_B_youth_entrepreneurship_03,s2,B_youth_entrepreneurship,"(youth | ""young people"") + (""self-employment"" | entrepreneurship) + (barriers | legal | regulation | ""access to finance"" | age)",2095.0,800,ok,2026-10-13
+eric_B_youth_entrepreneurship_01,eric,B_youth_entrepreneurship,"""youth entrepreneurship"" OR (entrepreneurship AND adolescents)",124.0,124,ok,2026-10-13
+eric_B_youth_entrepreneurship_02,eric,B_youth_entrepreneurship,"entrepreneurship AND (""high school students"" OR ""secondary school students"")",297.0,297,ok,2026-10-13
+seed_title,seed,,Infancy Doctrine Inquiries,,0,NOT MATCHED in Crossref,2026-10-13
+seed_title,seed,,CyberInfants,,0,NOT MATCHED in Crossref,2026-10-13
+seed_title,seed,,Youth Entrepreneurship: Meeting the Key Policy Challenges,,0,NOT MATCHED in Crossref,2026-10-13
+seed_title,seed,,"Pathways to successful entrepreneurship: Parenting, personality, early entrepreneurial competence, and interests",,1,matched 10.1016/j.jvb.2003.10.007,2026-10-13
+seed_title,seed,,Entrepreneurship as a twenty-first century skill: entrepreneurial alertness and intention in the transition to adulthood,,1,matched 10.1007/s11187-016-9798-6,2026-10-13
+seed_title,seed,,Fostering Youth Entrepreneurship: Preliminary Findings From the Young Entrepreneurs Study,,1,matched 10.1111/jora.12086,2026-10-13
+seed_title,seed,,"Minors' Contracts: A Major Problem with the Indian Contract Act, 1872",,1,matched 10.1093/slr/hmy034,2026-10-13
+seed_title,seed,,The Minors' Contracts Act 1987,,0,NOT MATCHED in Crossref,2026-10-13
+seed_title,seed,,Contracts for the Sale of Goods to Minors,,0,NOT MATCHED in Crossref,2026-10-13
+seed_title,seed,,Entrepreneurship among adolescents,,0,NOT MATCHED in Crossref,2026-10-13

@@ -1,0 +1,63 @@
+﻿founder_act,jurisdiction,status,authority,verification,note
+Age of majority,India,18,Majority Act 1875 s.3,S,Copy read still shows a 21-year limb for court-appointed guardianship; check whether repealed
+Age of majority,UK (England and Wales),18,Family Law Reform Act 1969 s.1,O-IA,
+Age of majority,US,18,1 Del. C. s.701; Cal. Fam. Code s.6500,O; O-IA,State law
+Age of majority,Singapore,21 (common law); contracts effective from 18,Civil Law Act 1909 s.35(1),N for 21; O for s.35,No primary source read for 21
+Contract in own name,India,Void,Indian Contract Act 1872 ss.10-11; Mohori Bibee (1903) as applied in Mathai Mathai (SC 2014); Suraj Narain (All 1928),O; S,No ratification; necessaries reimbursed from the minor's property under s.68
+Contract in own name,UK (England and Wales),Voidable,Sale of Goods Act 1979 s.3; Minors' Contracts Act 1987 ss.2-3; Proform Sports v Proactive [2006] EWHC 2903 (Ch),O-IA; S,Trading contracts not binding on the minor even if beneficial (passage quoted in Proform)
+Contract in own name,US,Voidable,"Cal. Fam. Code ss.6700, 6701, 6710-6712; Restatement (Second) of Contracts s.14",O-IA; N,Restatement text not read
+Contract in own name,Singapore,Voidable under 18 (common law); full effect at 18-20 with exceptions,"Civil Law Act 1909 s.35(1),(4); Sale of Goods Act s.3",O; N for cases,"Land, trust interests and settlements excluded"
+Contract through parent or guardian,India,Allowed through guardian (narrow),Subrahmanyam v Subba Rao (PC 1948); Mir Sarwarjan (PC 1911); HMGA 1956 s.8(1); Contract Act s.183; Raj Rani v Prem Adib (Bom 1948),S; O,Guardian cannot bind the minor by personal covenant; parent cannot be the minor's agent
+Contract through parent or guardian,UK (England and Wales),Adult guarantee enforceable,Minors' Contracts Act 1987 s.2,O-IA,Parental authority to contract for a minor's business not verified
+Contract through parent or guardian,US,Court approval or emancipation (California),"Cal. Fam. Code ss.6750-6751, 7050, 7120-7122",O-IA,"Court approval limited to entertainment, creative and sports contracts"
+Contract through parent or guardian,Singapore,Not verified,Minors' Contracts Act 1987 (Sing.) s.2 (heading only),N,
+Act as agent or signatory for the entity,India,Allowed (inference),Indian Contract Act s.184; Negotiable Instruments Act 1881 s.26,O; S,Minor binds the principal but is not answerable to the principal; no case read
+Act as agent or signatory for the entity,UK (England and Wales),Not verified,,N,
+Act as agent or signatory for the entity,US,Not verified,Cal. Fam. Code s.6701(a) (minor cannot give a delegation of power),O-IA,"Limits appointing an agent, not being one"
+Act as agent or signatory for the entity,Singapore,Not verified,,N,
+Partner in ordinary firm,India,Barred as partner; allowed benefits of partnership (through guardian),Indian Partnership Act 1932 s.30; CIT v Dwarkadas Khetan (SC 1960); CIT v Shah Mohandas Sadhuram (SC 1965),S,"Share liable, minor not personally liable; election within six months of majority"
+Partner in ordinary firm,UK (England and Wales),Allowed; voidable,Lovell & Christmas v Beauchamp [1894] AC 607,N,Case not read
+Partner in ordinary firm,US,Voidable (common law),,N,
+Partner in ordinary firm,Singapore,Barred under 18 (registration),"ACRA guidance, Choosing a business structure",O (guidance),Statutory section not identified
+LLP partner / LLC member,India,Silent; in effect barred,LLP Act 2008 s.5; Indian Contract Act s.11,S; O,No equivalent of Partnership Act s.30; MCA FAQ not readable
+LLP partner / LLC member,UK (England and Wales),Silent,"LLP Act 2000 ss.2, 4",O-IA,2009 Regulations not read through
+LLP partner / LLC member,US,Silent; allowed (agreement voidable),"6 Del. C. ss.18-101, 18-301",O,Voidability is an inference
+LLP partner / LLC member,Singapore,Barred under 18,ACRA guidance,O (guidance),Statutory section not identified
+Designated partner / LLP manager,India,In effect barred,"LLP Act 2008 s.7(3),(5),(6)",S,Conditions prescribed under s.7(5) not read; no age found by keyword search of the Rules
+Designated partner / LLP manager,UK (England and Wales),Not verified,,N,
+Designated partner / LLP manager,US,Not verified,,N,
+Designated partner / LLP manager,Singapore,Not verified,,N,
+Shareholder by subscription or allotment,India,Void,Palaniappa Mudaliar v Official Liquidator (Mad 1942); Dalmia Jain Airways v Saroj Rani (Punj 1954),S,Decided under the 1913 Act
+Shareholder by subscription or allotment,UK (England and Wales),Silent; voidable,Companies Act 2006 s.112; Steinberg v Scala [1923],O-IA; N,
+Shareholder by subscription or allotment,US,Allowed; voidable,,N,
+Shareholder by subscription or allotment,Singapore,Not verified,,N,
+Shareholder by gift or transfer,India,Allowed through guardian (reported); barred in One Person Company,Diwan Singh v Minerva Films (Punj 1959); Companies (Incorporation) Rules 2014 r.3(4),N; S,Authority for the transfer route not found
+Shareholder by gift or transfer,UK (England and Wales),Allowed,,N,
+Shareholder by gift or transfer,US,Allowed through custodian,12 Del. C. s.4501 (Delaware UTMA); Cal. Fam. Code s.7050(e)(3),O; O-IA,UTMA operative sections not read; minor means under 21
+Shareholder by gift or transfer,Singapore,Not verified,,N,
+Director,India,No express statutory minimum found; 21 for MD/WTD/manager; barred in practice (DIN at 18 reported),"Companies Act 2013 ss.152(5), 153, 164, 196(3)(a); Companies (Appointment and Qualification of Directors) Rules 2014 r.9",S; N for DIN age,DIN age rule not traced to any text
+Director,UK (England and Wales),Allowed from 16; void under 16,Companies Act 2006 ss.157-158,O-IA,s.159 omitted from 4 March 2024
+Director,US,Delaware: no age; California: no age in definition; New York: 18,8 Del. C. s.141(b); Cal. Corp. Code s.164; N.Y. Bus. Corp. Law s.701,O; O-IA; O-IA,
+Director,Singapore,Barred under 18,Companies Act 1967 s.145(2),O,
+Bank account,India,Allowed (savings and term deposits; independently from an age not less than 10),RBI circular RBI/2025-26/26 dated 21 April 2025,O,No overdraft; current and business accounts not covered
+Bank account,UK (England and Wales),Not verified,,N,
+Bank account,US,Not verified,,N,
+Bank account,Singapore,Not verified,,N,
+Tax registration and income,India,Allowed through guardian; own-skill income not clubbed,"Income-tax Act 1961 ss.64(1A), 160(1)(ii); Income-tax Act 2025 s.99(1)(c); CGST Act 2017 s.25",S,"PAN form, GST rules and commencement of the 2025 Act not verified"
+Tax registration and income,UK (England and Wales),Not verified,,N,
+Tax registration and income,US,Not verified,,N,
+Tax registration and income,Singapore,Not verified,,N,
+IP ownership,India,Allowed (ownership); dealings void if by the minor alone (inference),Trade Marks Act 1999 s.18; Copyright Act 1957 s.17; Indian Contract Act s.11,S; O,Registry practice on guardians not verified
+IP ownership,UK (England and Wales),Not verified,,N,
+IP ownership,US,Not verified,,N,
+IP ownership,Singapore,Not verified,,N,
+Land or lease,India,Guardian needs court permission to dispose,Hindu Minority and Guardianship Act 1956 s.8(2),S,
+Land or lease,UK (England and Wales),Barred from holding a legal estate,Law of Property Act 1925 s.1(6),O-IA,
+Land or lease,US,California: cannot contract on real property,Cal. Fam. Code s.6701(b),O-IA,
+Land or lease,Singapore,Land contracts excluded even at 18-20,Civil Law Act 1909 s.35(4)(a)-(b),O,
+Payment gateway and online services,India,Barred by provider terms; parental consent required by statute,"Razorpay Terms cl.2.1; PayPal India User Agreement; DPDP Act 2023 ss.2(f), 9",O (provider pages); S,DPDP Rules not read
+Payment gateway and online services,UK (England and Wales),Not verified,,N,
+Payment gateway and online services,US,Allowed through adult representative (Stripe),"Stripe Services Agreement, Age Restrictions",O (provider page),13 or older; regional terms not checked
+Payment gateway and online services,Singapore,Not verified,,N,
+Start-up recognition,India,Silent on founder age,Startup India recognition page (DPIIT),O,Gazette notification not read
+Reform model,Scotland,Full capacity at 16; business transactions cannot be set aside,Age of Legal Capacity (Scotland) Act 1991 ss.1-3,O-IA,
