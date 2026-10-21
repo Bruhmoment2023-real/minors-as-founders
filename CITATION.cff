@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 title: "Ownership without agency: the legal position of founders under 18 in India, compared with England and Wales, California and New York"
+doi: 10.5281/zenodo.23537725
 type: software
 authors:
   - family-names: "Solano Paul"

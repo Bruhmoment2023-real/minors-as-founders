@@ -1,5 +1,7 @@
 # Ownership without agency: the legal position of founders under 18 in India, compared with England and Wales, California and New York
 
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23537725 (this DOI always points to the latest version).
+
 Sean Solano Paul, Independent researcher, Bengaluru, India. Funding: none. Competing interests: none.
 
 ## Summary
