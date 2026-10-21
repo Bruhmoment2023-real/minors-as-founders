@@ -9,8 +9,10 @@ partnership, open accounts and register for tax. This is a legal and comparative
 those acts a person under 18 may lawfully perform in India, compared with England and Wales,
 California and New York. There is no statistical analysis and no analysis code: the "data" are
 hand-built comparison tables, source notes citing the statutes and cases, and verification records.
-Many cells for the American states could not be verified from official texts and are marked as
-such. These are research notes, not legal advice, and no qualified lawyer has checked them.
+A second check on 21 October 2026 replaced the paper's "not verified" cells: 20 were verified or
+narrowed from official texts, and 8 (mostly New York common-law and banking-practice rows) now read
+"not examined" (record in `docs/verification/not-verified-cells-2026-10-21.md`; for those cells it
+supersedes the tables in `data/`). These are research notes, not legal advice, and no qualified lawyer has checked them.
 
 ## Layout
 
@@ -20,7 +22,7 @@ such. These are research notes, not legal advice, and no qualified lawyer has ch
 | `data/03-comparison-table-v2.csv` / `.md` | Revised table after the follow-up verification round |
 | `docs/sources/02-sources-{india,uk,us,singapore}.md` | Source notes per jurisdiction: statute section, case, URL, access date |
 | `docs/01-prior-work.md`, `docs/04-argument-map.md` | Prior-work review and the argument map |
-| `docs/verification/` | Follow-up records: `cases.md`, `sources-official.md`, `singapore-uk-points.md`, `novelty-final.md` |
+| `docs/verification/` | Follow-up records: `cases.md`, `sources-official.md`, `singapore-uk-points.md`, `novelty-final.md`, and `not-verified-cells-2026-10-21.md` (second check of the England and Wales, US and Singapore cells) |
 | `docs/citations/` | `references.bib`, `references.ris` |
 | `docs/appendix/` | Data dictionary for the literature map, `evidence_handpatch.py`, `rerun.ps1` |
 | `bibliometrics/` | Literature map (926 records): scripts, search protocol, cleaned corpus tables, figures |
